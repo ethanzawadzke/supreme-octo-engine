@@ -1,0 +1,1435 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.438371,29.603262 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78259,
+    "PHONE":2104919400,
+    "COUNTY":"BEXAR",
+    "MAILING ADDRESS":"17720 CORPORATE WOODS DRIVE",
+    "MAILING CITY":"SAN ANTONIO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":78259,
+    "BEDS":208,
+    "CAPACITY RANK":1,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"17720 CORPORATE WOODS DRIVE SAN ANTONIO TX 78259",
+    "API ADDRESS":"17720 Corporate Woods Dr, San Antonio, TX 78259"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.605187,29.516338 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78240,
+    "PHONE":2105415300,
+    "COUNTY":"BEXAR",
+    "MAILING ADDRESS":"8550 HUEBNER ROAD",
+    "MAILING CITY":"SAN ANTONIO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":78240,
+    "BEDS":198,
+    "CAPACITY RANK":2,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"8550 HUEBNER ROAD SAN ANTONIO TX 78240",
+    "API ADDRESS":"8550 Huebner Rd, San Antonio, TX 78240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.475807,31.780775 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":79902,
+    "PHONE":9155444000,
+    "COUNTY":"EL PASO",
+    "MAILING ADDRESS":"1900 DENVER AVENUE",
+    "MAILING CITY":"EL PASO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":79902,
+    "BEDS":166,
+    "CAPACITY RANK":3,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"1900 DENVER AVENUE EL PASO TX 79902",
+    "API ADDRESS":"1900 Denver Ave, El Paso, TX 79902"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.546173,29.824053 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77080,
+    "PHONE":8328347710,
+    "COUNTY":"HARRIS",
+    "MAILING ADDRESS":"2801 GESSNER ROAD",
+    "MAILING CITY":"HOUSTON",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77080,
+    "BEDS":163,
+    "CAPACITY RANK":4,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"2801 GESSNER ROAD HOUSTON TX 77080",
+    "API ADDRESS":"2801 Gessner Rd, Houston, TX 77080"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.497408,29.709547 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77074,
+    "PHONE":7139950909,
+    "COUNTY":"HARRIS",
+    "MAILING ADDRESS":"6500 HORNWOOD DRIVE",
+    "MAILING CITY":"HOUSTON",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77074,
+    "BEDS":160,
+    "CAPACITY RANK":5,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"6500 HORNWOOD DRIVE HOUSTON TX 77074",
+    "API ADDRESS":"6500 Hornwood Dr, Houston, TX 77074"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.400925,29.690531 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77054,
+    "PHONE":7137962273,
+    "COUNTY":"HARRIS",
+    "MAILING ADDRESS":"7601 FANNIN",
+    "MAILING CITY":"HOUSTON",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77054,
+    "BEDS":148,
+    "CAPACITY RANK":6,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"7601 FANNIN HOUSTON TX 77054",
+    "API ADDRESS":"7601 Fannin St, Houston, TX 77054"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.748604,30.306062 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78731,
+    "PHONE":5123242000,
+    "COUNTY":"TRAVIS",
+    "MAILING ADDRESS":"3501 MILLS AVENUE",
+    "MAILING CITY":"AUSTIN",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":78731,
+    "BEDS":147,
+    "CAPACITY RANK":7,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"3501 MILLS AVENUE AUSTIN TX 78731",
+    "API ADDRESS":"3501 Mills Ave, Austin, TX 78731"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.11325,32.751761 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":76011,
+    "PHONE":8174042287,
+    "COUNTY":"TARRANT",
+    "MAILING ADDRESS":"1011 NORTH COOPER STREET",
+    "MAILING CITY":"ARLINGTON",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":76011,
+    "BEDS":134,
+    "CAPACITY RANK":8,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"1011 NORTH COOPER STREET ARLINGTON TX 76011",
+    "API ADDRESS":"1011 N Cooper St, Arlington, TX 76011"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.444851,30.024668 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77090,
+    "PHONE":2815867600,
+    "COUNTY":"HARRIS",
+    "MAILING ADDRESS":"17750 CALI DRIVE",
+    "MAILING CITY":"HOUSTON",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77090,
+    "BEDS":128,
+    "CAPACITY RANK":9,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"17750 CALI DRIVE HOUSTON TX 77090",
+    "API ADDRESS":"17750 Cali Dr, Houston, TX 77090"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.460905,29.704019 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77081,
+    "PHONE":7136009500,
+    "COUNTY":"HARRIS",
+    "MAILING ADDRESS":"PO BOX 3215",
+    "MAILING CITY":"BELLAIRE",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77402,
+    "BEDS":124,
+    "CAPACITY RANK":10,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"PO BOX 3215 BELLAIRE TX 77402",
+    "API ADDRESS":"PO Box 3215, Bellaire, TX 77402"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.771656,32.912652 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75251,
+    "PHONE":9729919504,
+    "COUNTY":"DALLAS",
+    "MAILING ADDRESS":"7808 CLODUS FIELDS DRIVE",
+    "MAILING CITY":"DALLAS",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75251,
+    "BEDS":124,
+    "CAPACITY RANK":11,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"7808 CLODUS FIELDS DRIVE DALLAS TX 75251",
+    "API ADDRESS":"7808 Clodus Fields Dr, Dallas, TX 75251"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.459427,29.648921 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77035,
+    "PHONE":7132755000,
+    "COUNTY":"HARRIS",
+    "MAILING ADDRESS":"12301 MAIN",
+    "MAILING CITY":"HOUSTON",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77035,
+    "BEDS":120,
+    "CAPACITY RANK":12,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"12301 MAIN HOUSTON TX 77035",
+    "API ADDRESS":"12301 Main St, Houston, TX 77035"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.680653,30.614874 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78626,
+    "PHONE":5128191100,
+    "COUNTY":"WILLIAMSON",
+    "MAILING ADDRESS":"3101 S AUSTIN AVE",
+    "MAILING CITY":"GEORGETOWN",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":78626,
+    "BEDS":118,
+    "CAPACITY RANK":13,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"3101 S AUSTIN AVE GEORGETOWN TX 78626",
+    "API ADDRESS":"3101 S Austin Ave, Georgetown, TX 78626"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.875159,32.642239 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75115,
+    "PHONE":9729820897,
+    "COUNTY":"DALLAS",
+    "MAILING ADDRESS":"800 KIRNWOOD DR",
+    "MAILING CITY":"DESOTO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75115,
+    "BEDS":116,
+    "CAPACITY RANK":14,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"800 KIRNWOOD DR DESOTO TX 75115",
+    "API ADDRESS":"800 Kirnwood Dr, Desoto, TX 75115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.229664,30.044568 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77339,
+    "PHONE":2814041001,
+    "COUNTY":"HARRIS",
+    "MAILING ADDRESS":"2001 LADBROOK DRIVE",
+    "MAILING CITY":"KINGWOOD",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77339,
+    "BEDS":116,
+    "CAPACITY RANK":15,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"2001 LADBROOK DRIVE KINGWOOD TX 77339",
+    "API ADDRESS":"2001 Ladbrook Dr, Kingwood, TX 77339"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1779,32.628102 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":76001,
+    "PHONE":8176626341,
+    "COUNTY":"TARRANT",
+    "MAILING ADDRESS":"7000 US HIGHWAY 287",
+    "MAILING CITY":"ARLINGTON",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":76001,
+    "BEDS":116,
+    "CAPACITY RANK":16,
+    "PERCENTILE":"75th",
+    "FULL ADDRESS":"7000 US HIGHWAY 287 ARLINGTON TX 76001",
+    "API ADDRESS":"7000 US 287 Hwy, Arlington, TX 76001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.15653,33.230779 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":76201,
+    "PHONE":9403208100,
+    "COUNTY":"DENTON",
+    "MAILING ADDRESS":"2026 WEST UNIVERSITY",
+    "MAILING CITY":"DENTON",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":76201,
+    "BEDS":104,
+    "CAPACITY RANK":17,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"2026 WEST UNIVERSITY DENTON TX 76201",
+    "API ADDRESS":"2026 W University Dr, Denton, TX 76201"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3691,31.059863 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":76502,
+    "PHONE":2544105100,
+    "COUNTY":"BELL",
+    "MAILING ADDRESS":"1201 CANYON CREEK DRIVE",
+    "MAILING CITY":"TEMPLE",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":76502,
+    "BEDS":102,
+    "CAPACITY RANK":18,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"1201 CANYON CREEK DRIVE TEMPLE TX 76502",
+    "API ADDRESS":"1201 Canyon Creek Dr, Temple, TX 76502"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.444316,30.33464 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77301,
+    "PHONE":9365224200,
+    "COUNTY":"MONTGOMERY",
+    "MAILING ADDRESS":"700 HILBIG ROAD",
+    "MAILING CITY":"CONROE",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77301,
+    "BEDS":100,
+    "CAPACITY RANK":19,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"700 HILBIG ROAD CONROE TX 77301",
+    "API ADDRESS":"700 Hilbig Rd, Conroe, TX 77301"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.670401,32.913645 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75042,
+    "PHONE":9723705517,
+    "COUNTY":"DALLAS",
+    "MAILING ADDRESS":"2696 WEST WALNUT STREET",
+    "MAILING CITY":"GARLAND",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75042,
+    "BEDS":100,
+    "CAPACITY RANK":20,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"2696 WEST WALNUT STREET GARLAND TX 75042",
+    "API ADDRESS":"2696 W Walnut St, Garland, TX 75042"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.50102,33.906656 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":76301,
+    "PHONE":9403223171,
+    "COUNTY":"WICHITA",
+    "MAILING ADDRESS":"1505 8TH STREET",
+    "MAILING CITY":"WICHITA FALLS",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":76301,
+    "BEDS":96,
+    "CAPACITY RANK":21,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"1505 8TH STREET WICHITA FALLS TX 76301",
+    "API ADDRESS":"1505 8th St, Wichita Falls, TX 76301"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.540212,30.229421 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77384,
+    "PHONE":9362707520,
+    "COUNTY":"MONTGOMERY",
+    "MAILING ADDRESS":"15860 OLD CONROE ROAD",
+    "MAILING CITY":"CONROE",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77384,
+    "BEDS":96,
+    "CAPACITY RANK":22,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"15860 OLD CONROE ROAD CONROE TX 77384",
+    "API ADDRESS":"15860 Old Conroe Rd, Conroe, TX 77384"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.67332,26.160039 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78550,
+    "PHONE":9563652600,
+    "COUNTY":"CAMERON",
+    "MAILING ADDRESS":"613 VICTORIA LANE",
+    "MAILING CITY":"HARLINGEN",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":78550,
+    "BEDS":94,
+    "CAPACITY RANK":23,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"613 VICTORIA LANE HARLINGEN TX 78550",
+    "API ADDRESS":"Victoria Ln, Harlingen, TX 78550"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.116372,29.555442 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77058,
+    "PHONE":2816063517,
+    "COUNTY":"HARRIS",
+    "MAILING ADDRESS":"16850 BUCCANEER LANE",
+    "MAILING CITY":"HOUSTON",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77058,
+    "BEDS":92,
+    "CAPACITY RANK":24,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"16850 BUCCANEER LANE HOUSTON TX 77058",
+    "API ADDRESS":"16850 Buccaneer Ln, Houston, TX 77058"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.769283,33.086237 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":79602,
+    "PHONE":3256986600,
+    "COUNTY":"TAYLOR",
+    "MAILING ADDRESS":"3905 HEDGCOXE RD UNIT 250249",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75025,
+    "BEDS":92,
+    "CAPACITY RANK":25,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"3905 HEDGCOXE RD UNIT 250249 PLANO TX 75025",
+    "API ADDRESS":"3905 Hedgcoxe Rd, Unit 250249, Plano, TX 75025"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.573303,31.872734 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":79912,
+    "PHONE":9152094513,
+    "COUNTY":"EL PASO",
+    "MAILING ADDRESS":"1390 NORTHWESTERN DRIVE",
+    "MAILING CITY":"EL PASO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":79912,
+    "BEDS":92,
+    "CAPACITY RANK":26,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"1390 NORTHWESTERN DRIVE EL PASO TX 79912",
+    "API ADDRESS":"1390 Northwestern Dr, El Paso, TX 79912"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.677094,30.338339 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78754,
+    "PHONE":5122153900,
+    "COUNTY":"TRAVIS",
+    "MAILING ADDRESS":"8402 CROSS PARK DRIVE",
+    "MAILING CITY":"AUSTIN",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":78754,
+    "BEDS":90,
+    "CAPACITY RANK":27,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"8402 CROSS PARK DRIVE AUSTIN TX 78754",
+    "API ADDRESS":"8402 Cross Park Dr, Austin, TX 78754"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.864716,32.628022 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75115,
+    "PHONE":9722987323,
+    "COUNTY":"DALLAS",
+    "MAILING ADDRESS":"2000 N OLD HICKORY TRAIL",
+    "MAILING CITY":"DESOTO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75115,
+    "BEDS":86,
+    "CAPACITY RANK":28,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"2000 N OLD HICKORY TRAIL DESOTO TX 75115",
+    "API ADDRESS":"2000 Old Hickory Trl, Desoto, TX 75115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.791766,30.211641 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78745,
+    "PHONE":5124404800,
+    "COUNTY":"TRAVIS",
+    "MAILING ADDRESS":"1407 WEST STASSNEY LANE",
+    "MAILING CITY":"AUSTIN",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":78745,
+    "BEDS":80,
+    "CAPACITY RANK":29,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"1407 WEST STASSNEY LANE AUSTIN TX 78745",
+    "API ADDRESS":"1407 W Stassney Ln, Austin, TX 78745"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.438371,29.603262 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78259,
+    "PHONE":2104919400,
+    "COUNTY":"BEXAR",
+    "MAILING ADDRESS":"17720 CORPORATE WOODS DRIVE",
+    "MAILING CITY":"SAN ANTONIO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":78259,
+    "BEDS":80,
+    "CAPACITY RANK":30,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"17720 CORPORATE WOODS DRIVE SAN ANTONIO TX 78259",
+    "API ADDRESS":"17720 Corporate Woods Dr, San Antonio, TX 78259"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.510599,31.447515 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":76901,
+    "PHONE":3259495722,
+    "COUNTY":"TOM GREEN",
+    "MAILING ADDRESS":"1636 HUNTERS GLEN ROAD",
+    "MAILING CITY":"SAN ANGELO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":76901,
+    "BEDS":80,
+    "CAPACITY RANK":31,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"1636 HUNTERS GLEN ROAD SAN ANGELO TX 76901",
+    "API ADDRESS":"1636 Hunters Glen Rd, San Angelo, TX 76901"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.868407,33.045635 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75010,
+    "PHONE":9722424114,
+    "COUNTY":"DENTON",
+    "MAILING ADDRESS":"2225 PARKER ROAD",
+    "MAILING CITY":"CARROLLTON",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75010,
+    "BEDS":78,
+    "CAPACITY RANK":32,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"2225 PARKER ROAD CARROLLTON TX 75010",
+    "API ADDRESS":"2225 Parker Rd, Carrollton, TX 75010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.801799,33.07079 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75024,
+    "PHONE":4694993900,
+    "COUNTY":"COLLIN",
+    "MAILING ADDRESS":"5120 LEGACY DRIVE",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75024,
+    "BEDS":72,
+    "CAPACITY RANK":33,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"5120 LEGACY DRIVE PLANO TX 75024",
+    "API ADDRESS":"5120 Legacy Dr, Plano, TX 75024"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.413353,32.639592 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":76123,
+    "PHONE":8172924600,
+    "COUNTY":"TARRANT",
+    "MAILING ADDRESS":"5560 MESA SPRINGS DRIVE",
+    "MAILING CITY":"FORT WORTH",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":76123,
+    "BEDS":72,
+    "CAPACITY RANK":34,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"5560 MESA SPRINGS DRIVE FORT WORTH TX 76123",
+    "API ADDRESS":"5560 Mesa Springs Dr, Fort Worth, TX 76123"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.673429,30.606084 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78626,
+    "PHONE":5128199400,
+    "COUNTY":"WILLIAMSON",
+    "MAILING ADDRESS":"700 SOUTHEAST INNER LOOP",
+    "MAILING CITY":"GEORGETOWN",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":78626,
+    "BEDS":72,
+    "CAPACITY RANK":35,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"700 SOUTHEAST INNER LOOP GEORGETOWN TX 78626",
+    "API ADDRESS":"700 SE Inner Loop, Georgetown, TX 78626"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.761118,29.694376 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77407,
+    "PHONE":8325352770,
+    "COUNTY":"FORT BEND",
+    "MAILING ADDRESS":"6902 S PEEK ROAD",
+    "MAILING CITY":"RICHMOND",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77407,
+    "BEDS":72,
+    "CAPACITY RANK":36,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"6902 S PEEK ROAD RICHMOND TX 77407",
+    "API ADDRESS":"6902 S Peek Rd, Richmond, TX 77407"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.837853,33.150632 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75034,
+    "PHONE":4695358000,
+    "COUNTY":"COLLIN",
+    "MAILING ADDRESS":"5680 FRISCO SQUARE BLVD SUITE 3000",
+    "MAILING CITY":"FRISCO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75034,
+    "BEDS":70,
+    "CAPACITY RANK":37,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"5680 FRISCO SQUARE BLVD SUITE 3000 FRISCO TX 75034",
+    "API ADDRESS":"5680 Frisco Square Blvd, Ste 3000, Frisco, TX 75034"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.12245,32.834593 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":76022,
+    "PHONE":8178487771,
+    "COUNTY":"TARRANT",
+    "MAILING ADDRESS":"2717 TIBBETS DRIVE",
+    "MAILING CITY":"BEDFORD",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":76022,
+    "BEDS":70,
+    "CAPACITY RANK":38,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"2717 TIBBETS DRIVE BEDFORD TX 76022",
+    "API ADDRESS":"2717 Tibbets Dr, Bedford, TX 76022"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.477659,31.021474 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":76513,
+    "PHONE":2549392100,
+    "COUNTY":"BELL",
+    "MAILING ADDRESS":"3500 I-H 35 SOUTH",
+    "MAILING CITY":"BELTON",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":76513,
+    "BEDS":68,
+    "CAPACITY RANK":39,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"3500 I-H 35 SOUTH BELTON TX 76513",
+    "API ADDRESS":"3500 I-35 H 35, Belton, TX 76513"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.576238,29.519971 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78229,
+    "PHONE":2106160300,
+    "COUNTY":"BEXAR",
+    "MAILING ADDRESS":"8535 TOM SLICK DRIVE",
+    "MAILING CITY":"SAN ANTONIO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":78229,
+    "BEDS":66,
+    "CAPACITY RANK":40,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"8535 TOM SLICK DRIVE SAN ANTONIO TX 78229",
+    "API ADDRESS":"8535 Tom Slick, San Antonio, TX 78229"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.769283,33.086237 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":79706,
+    "PHONE":4325615915,
+    "COUNTY":"MIDLAND",
+    "MAILING ADDRESS":"3905 HEDGCOXE RD UNIT 250249",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75025,
+    "BEDS":64,
+    "CAPACITY RANK":41,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"3905 HEDGCOXE RD UNIT 250249 PLANO TX 75025",
+    "API ADDRESS":"3905 Hedgcoxe Rd, Unit 250249, Plano, TX 75025"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.984033,40.283274 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77304,
+    "PHONE":9362420409,
+    "COUNTY":"MONTGOMERY",
+    "MAILING ADDRESS":"1828 GOOD HOPE ROAD SUITE 102",
+    "MAILING CITY":"ENOLA",
+    "MAILING STATE":"PA",
+    "MAILING ZIP":17025,
+    "BEDS":64,
+    "CAPACITY RANK":42,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"1828 GOOD HOPE ROAD SUITE 102 ENOLA PA 17025",
+    "API ADDRESS":"1828 Good Hope Rd, Ste 102, Enola, PA 17025"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.984033,40.283274 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77498,
+    "PHONE":2818960112,
+    "COUNTY":"FORT BEND",
+    "MAILING ADDRESS":"1828 GOOD HOPE RD",
+    "MAILING CITY":"ENOLA",
+    "MAILING STATE":"PA",
+    "MAILING ZIP":17025,
+    "BEDS":60,
+    "CAPACITY RANK":43,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"1828 GOOD HOPE RD ENOLA PA 17025",
+    "API ADDRESS":"1828 Good Hope Rd, Enola, PA 17025"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.082107,33.124076 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75402,
+    "PHONE":9034546000,
+    "COUNTY":"HUNT",
+    "MAILING ADDRESS":"301 EAST DIVISION STREET",
+    "MAILING CITY":"GREENVILLE",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75402,
+    "BEDS":54,
+    "CAPACITY RANK":44,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"301 EAST DIVISION STREET GREENVILLE TX 75402",
+    "API ADDRESS":"301 Division St, Greenville, TX 75401"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.769283,33.086237 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77450,
+    "PHONE":2814928888,
+    "COUNTY":"HARRIS",
+    "MAILING ADDRESS":"3905 HEDGCOXE RD UNIT 250249",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75025,
+    "BEDS":48,
+    "CAPACITY RANK":45,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"3905 HEDGCOXE RD UNIT 250249 PLANO TX 75025",
+    "API ADDRESS":"3905 Hedgcoxe Rd, Unit 250249, Plano, TX 75025"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.769283,33.086237 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":76712,
+    "PHONE":2548704874,
+    "COUNTY":"MCLENNAN",
+    "MAILING ADDRESS":"3905 HEDGCOXE RD UNIT 250249",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75025,
+    "BEDS":48,
+    "CAPACITY RANK":46,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"3905 HEDGCOXE RD UNIT 250249 PLANO TX 75025",
+    "API ADDRESS":"3905 Hedgcoxe Rd, Unit 250249, Plano, TX 75025"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.833533,33.044982 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75093,
+    "PHONE":9729818301,
+    "COUNTY":"COLLIN",
+    "MAILING ADDRESS":"6110 WEST PARKER ROAD",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75093,
+    "BEDS":48,
+    "CAPACITY RANK":47,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"6110 WEST PARKER ROAD PLANO TX 75093",
+    "API ADDRESS":"6110 W Parker Rd, Plano, TX 75093"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.419098,32.679982 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":76132,
+    "PHONE":8173611991,
+    "COUNTY":"TARRANT",
+    "MAILING ADDRESS":"6200 OVERTON RIDGE BLVD",
+    "MAILING CITY":"FORT WORTH",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":76132,
+    "BEDS":48,
+    "CAPACITY RANK":48,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"6200 OVERTON RIDGE BLVD FORT WORTH TX 76132",
+    "API ADDRESS":"6200 Overton Ridge Blvd, Fort Worth, TX 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.776757,33.006039 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75093,
+    "PHONE":9725965445,
+    "COUNTY":"COLLIN",
+    "MAILING ADDRESS":"4301 MAPLESHADE LANE",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75093,
+    "BEDS":48,
+    "CAPACITY RANK":49,
+    "PERCENTILE":"50th",
+    "FULL ADDRESS":"4301 MAPLESHADE LANE PLANO TX 75093",
+    "API ADDRESS":"4301 Mapleshade Ln, Plano, TX 75093"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.769283,33.086237 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78404,
+    "PHONE":3613718933,
+    "COUNTY":"NUECES",
+    "MAILING ADDRESS":"3905 HEDGCOXE RD UNIT 250249",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75025,
+    "BEDS":42,
+    "CAPACITY RANK":50,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"3905 HEDGCOXE RD UNIT 250249 PLANO TX 75025",
+    "API ADDRESS":"3905 Hedgcoxe Rd, Unit 250249, Plano, TX 75025"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.769283,33.086237 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":79415,
+    "PHONE":8065161190,
+    "COUNTY":"LUBBOCK",
+    "MAILING ADDRESS":"3905 HEDGCOXE RD UNIT 250249",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75025,
+    "BEDS":32,
+    "CAPACITY RANK":51,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"3905 HEDGCOXE RD UNIT 250249 PLANO TX 75025",
+    "API ADDRESS":"3905 Hedgcoxe Rd, Unit 250249, Plano, TX 75025"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.741382,30.268335 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78745,
+    "PHONE":5124444835,
+    "COUNTY":"TRAVIS",
+    "MAILING ADDRESS":"PO BOX 150459",
+    "MAILING CITY":"AUSTIN",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":78715,
+    "BEDS":32,
+    "CAPACITY RANK":52,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"PO BOX 150459 AUSTIN TX 78715",
+    "API ADDRESS":"PO Box 150459, Austin, TX 78715"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.850445,33.588771 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":79423,
+    "PHONE":8067401400,
+    "COUNTY":"LUBBOCK",
+    "MAILING ADDRESS":"PO BOX 2828",
+    "MAILING CITY":"LUBBOCK",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":79408,
+    "BEDS":30,
+    "CAPACITY RANK":53,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"PO BOX 2828 LUBBOCK TX 79408",
+    "API ADDRESS":"PO Box 2828, Lubbock, TX 79408"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.635188,33.669765 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75092,
+    "PHONE":9038701200,
+    "COUNTY":"GRAYSON",
+    "MAILING ADDRESS":"1724 W US HIGHWAY 82 SUITE 200",
+    "MAILING CITY":"SHERMAN",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75092,
+    "BEDS":28,
+    "CAPACITY RANK":54,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"1724 W US HIGHWAY 82 SUITE 200 SHERMAN TX 75092",
+    "API ADDRESS":"1810 W US Highway 82, Ste 200, Sherman, TX 75092"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.769283,33.086237 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":79124,
+    "PHONE":8063102205,
+    "COUNTY":"POTTER",
+    "MAILING ADDRESS":"3905 HEDGCOXE ROAD UNIT 250249",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75025,
+    "BEDS":28,
+    "CAPACITY RANK":55,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"3905 HEDGCOXE ROAD UNIT 250249 PLANO TX 75025",
+    "API ADDRESS":"3905 Hedgcoxe Rd, Unit 250249, Plano, TX 75025"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.792902,33.01419 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75093,
+    "PHONE":9724760801,
+    "COUNTY":"COLLIN",
+    "MAILING ADDRESS":"4716 ALLIANCE BOULEVARD SUITE 400",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75093,
+    "BEDS":24,
+    "CAPACITY RANK":56,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"4716 ALLIANCE BOULEVARD SUITE 400 PLANO TX 75093",
+    "API ADDRESS":"4716 Alliance Blvd, Ste 400, Plano, TX 75093"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.662797,30.022822 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77429,
+    "PHONE":2815166186,
+    "COUNTY":"HARRIS",
+    "MAILING ADDRESS":"16303 GRANT ROAD",
+    "MAILING CITY":"CYPRESS",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77429,
+    "BEDS":24,
+    "CAPACITY RANK":57,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"16303 GRANT ROAD CYPRESS TX 77429",
+    "API ADDRESS":"16303 Grant Rd, Cypress, TX 77429"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.769283,33.086237 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75605,
+    "PHONE":9032123105,
+    "COUNTY":"GREGG",
+    "MAILING ADDRESS":"3905 HEDGCOXE RD UNIT 250249",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75025,
+    "BEDS":24,
+    "CAPACITY RANK":58,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"3905 HEDGCOXE RD UNIT 250249 PLANO TX 75025",
+    "API ADDRESS":"3905 Hedgcoxe Rd, Unit 250249, Plano, TX 75025"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.769283,33.086237 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":75904,
+    "PHONE":9366322276,
+    "COUNTY":"ANGELINA",
+    "MAILING ADDRESS":"3905 HEDGCOXE RD UNIT 250249",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75025,
+    "BEDS":24,
+    "CAPACITY RANK":59,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"3905 HEDGCOXE RD UNIT 250249 PLANO TX 75025",
+    "API ADDRESS":"3905 Hedgcoxe Rd, Unit 250249, Plano, TX 75025"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.769283,33.086237 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77505,
+    "PHONE":8328214982,
+    "COUNTY":"HARRIS",
+    "MAILING ADDRESS":"3905 HEDGCOXE RD UNIT 250249",
+    "MAILING CITY":"PLANO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":75025,
+    "BEDS":22,
+    "CAPACITY RANK":60,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"3905 HEDGCOXE RD UNIT 250249 PLANO TX 75025",
+    "API ADDRESS":"3905 Hedgcoxe Rd, Unit 250249, Plano, TX 75025"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.731042,34.206722 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":79072,
+    "PHONE":8062969191,
+    "COUNTY":"HALE",
+    "MAILING ADDRESS":"2601 DIMMITT ROAD",
+    "MAILING CITY":"PLAINVIEW",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":79072,
+    "BEDS":20,
+    "CAPACITY RANK":61,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"2601 DIMMITT ROAD PLAINVIEW TX 79072",
+    "API ADDRESS":"2601 Dimmitt Rd, Plainview, TX 79072"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.494078,27.515879 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78041,
+    "PHONE":9567943005,
+    "COUNTY":"WEBB",
+    "MAILING ADDRESS":"PO BOX 1835",
+    "MAILING CITY":"LAREDO",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":78044,
+    "BEDS":16,
+    "CAPACITY RANK":62,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"PO BOX 1835 LAREDO TX 78044",
+    "API ADDRESS":"PO Box 1835, Laredo, TX 78044"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.140333,30.045288 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":78028,
+    "PHONE":8307923300,
+    "COUNTY":"KERR",
+    "MAILING ADDRESS":"819 WATER ST STE 300",
+    "MAILING CITY":"KERRVILLE",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":78028,
+    "BEDS":16,
+    "CAPACITY RANK":63,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"819 WATER ST STE 300 KERRVILLE TX 78028",
+    "API ADDRESS":"819 Water St, Ste 300, Kerrville, TX 78028"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.438548,30.307375 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77301,
+    "PHONE":9365216100,
+    "COUNTY":"MONTGOMERY",
+    "MAILING ADDRESS":"PO BOX 3067",
+    "MAILING CITY":"CONROE",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77305,
+    "BEDS":16,
+    "CAPACITY RANK":64,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"PO BOX 3067 CONROE TX 77305",
+    "API ADDRESS":"PO Box 3067, Conroe, TX 77305"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.393737,29.712728 ]
+    },
+    "properties": {
+    "STATE":"TX",
+    "ZIP":77030,
+    "PHONE":7139704646,
+    "COUNTY":"HARRIS",
+    "MAILING ADDRESS":"1502 TAUB LOOP NEUROPSYCHIATRIC CENTER",
+    "MAILING CITY":"HOUSTON",
+    "MAILING STATE":"TX",
+    "MAILING ZIP":77030,
+    "BEDS":16,
+    "CAPACITY RANK":65,
+    "PERCENTILE":"25th",
+    "FULL ADDRESS":"1502 TAUB LOOP NEUROPSYCHIATRIC CENTER HOUSTON TX 77030",
+    "API ADDRESS":"1502 Taub Loop, Houston, TX 77030"
+    }
+  }
+]
+}
