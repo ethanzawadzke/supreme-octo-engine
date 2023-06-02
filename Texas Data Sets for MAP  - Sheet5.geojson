@@ -1,0 +1,38 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.449967,30.026906 ]
+    },
+    "properties": {
+    "Name":"Cypress Creek Medical Plaza",
+    "API Address":"17506 Red Oak Dr, Houston, TX 77090"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.87688,32.651282 ]
+    },
+    "properties": {
+    "Name":"Arbor House of Dallas",
+    "API Address":"8027 W Virginia Dr, Dallas, TX 75237"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.981002,32.99263 ]
+    },
+    "properties": {
+    "Name":"Cedar Crest of Lewisville",
+    "API Address":"400 Highland Dr, Lewisville, TX 75067"
+    }
+  }
+]
+}
