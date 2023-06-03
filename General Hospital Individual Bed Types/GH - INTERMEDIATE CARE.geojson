@@ -1,0 +1,977 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.801689,31.113674 ]
+    },
+    "properties": {
+    "NAME":"ADVENTHEALTH CENTRAL TEXAS",
+    "ADDRESS":"2201 SOUTH CLEAR CREEK ROAD",
+    "CITY":"KILLEEN",
+    "STATE":"TX",
+    "ZIP":76549,
+    "API ADDRESS":"2201 Clear Creek Rd, Killeen, TX 76549",
+    "COUNTY":"BELL",
+    "PHONE":2545198165,
+    "BEDS":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.745402,30.304914 ]
+    },
+    "properties": {
+    "NAME":"ASCENSION SETON MEDICAL CENTER AUSTIN",
+    "ADDRESS":"1201 WEST 38TH STREET",
+    "CITY":"AUSTIN",
+    "STATE":"TX",
+    "ZIP":78705,
+    "API ADDRESS":"1201 W 38th St, Austin, TX 78705",
+    "COUNTY":"TRAVIS",
+    "PHONE":5123241000,
+    "BEDS":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.744736,30.405845 ]
+    },
+    "properties": {
+    "NAME":"ASCENSION SETON NORTHWEST",
+    "ADDRESS":"11113 RESEARCH BOULEVARD",
+    "CITY":"AUSTIN",
+    "STATE":"TX",
+    "ZIP":78759,
+    "API ADDRESS":"11113 Research Blvd, Austin, TX 78759",
+    "COUNTY":"TRAVIS",
+    "PHONE":5123246900,
+    "BEDS":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.293826,30.579234 ]
+    },
+    "properties": {
+    "NAME":"BAYLOR SCOTT & WHITE MEDICAL CENTER - COLLEGE STATION",
+    "ADDRESS":"700 SCOTT AND WHITE DR",
+    "CITY":"COLLEGE STATION",
+    "STATE":"TX",
+    "ZIP":77845,
+    "API ADDRESS":"College Station, TX 77845",
+    "COUNTY":"BRAZOS",
+    "PHONE":9792070100,
+    "BEDS":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.157815,31.487525 ]
+    },
+    "properties": {
+    "NAME":"BAYLOR SCOTT & WHITE MEDICAL CENTER - HILLCREST",
+    "ADDRESS":"100 HILLCREST MEDICAL BLV",
+    "CITY":"WACO",
+    "STATE":"TX",
+    "ZIP":76712,
+    "API ADDRESS":"120 Hillcrest Medical Blvd, Waco, TX 76712",
+    "COUNTY":"MCLENNAN",
+    "PHONE":2542029414,
+    "BEDS":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.682581,33.221085 ]
+    },
+    "properties": {
+    "NAME":"BAYLOR SCOTT & WHITE MEDICAL CENTER - MCKINNEY",
+    "ADDRESS":"5252 W UNIVERSITY DR",
+    "CITY":"MCKINNEY",
+    "STATE":"TX",
+    "ZIP":75071,
+    "API ADDRESS":"5252 W University Dr, McKinney, TX 75071",
+    "COUNTY":"COLLIN",
+    "PHONE":4697642200,
+    "BEDS":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.812177,30.532424 ]
+    },
+    "properties": {
+    "NAME":"CEDAR PARK REGIONAL MEDICAL CENTER",
+    "ADDRESS":"1401 MEDICAL PARKWAY",
+    "CITY":"CEDAR PARK",
+    "STATE":"TX",
+    "ZIP":78613,
+    "API ADDRESS":"1401 Medical Pkwy, Cedar Park, TX 78613",
+    "COUNTY":"WILLIAMSON",
+    "PHONE":5125287000,
+    "BEDS":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.399962,29.708712 ]
+    },
+    "properties": {
+    "NAME":"CHI ST LUKES HEALTH BAYLOR COLLEGE OF MEDICINE MEDICAL CENTER",
+    "ADDRESS":"6720 BERTNER",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77030,
+    "API ADDRESS":"6720 Bertner Ave, Houston, TX 77030",
+    "COUNTY":"HARRIS",
+    "PHONE":7137858537,
+    "BEDS":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.743638,31.336811 ]
+    },
+    "properties": {
+    "NAME":"CHI ST LUKES HEALTH MEMORIAL LUFKIN",
+    "ADDRESS":"1201 W FRANK AVE",
+    "CITY":"LUFKIN",
+    "STATE":"TX",
+    "ZIP":75904,
+    "API ADDRESS":"1201 W Frank Ave, Lufkin, TX 75904",
+    "COUNTY":"ANGELINA",
+    "PHONE":9366348111,
+    "BEDS":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.861277,27.500942 ]
+    },
+    "properties": {
+    "NAME":"CHRISTUS SPOHN HOSPITAL CORPUS CHRISTI SHORELINE",
+    "ADDRESS":"600 ELIZABETH STREET",
+    "CITY":"CORPUS CHRISTI",
+    "STATE":"TX",
+    "ZIP":78404,
+    "API ADDRESS":"608 Elizabeth Ave, Kingsville, TX 78363",
+    "COUNTY":"NUECES",
+    "PHONE":3618813148,
+    "BEDS":144
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.376406,27.681949 ]
+    },
+    "properties": {
+    "NAME":"CHRISTUS SPOHN HOSPITAL CORPUS CHRISTI SOUTH",
+    "ADDRESS":"5950 SARATOGA BOULEVARD",
+    "CITY":"CORPUS CHRISTI",
+    "STATE":"TX",
+    "ZIP":78414,
+    "API ADDRESS":"5950 Saratoga Blvd, Corpus Christi, TX 78414",
+    "COUNTY":"NUECES",
+    "PHONE":3619855103,
+    "BEDS":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.341846,32.736976 ]
+    },
+    "properties": {
+    "NAME":"COOK CHILDRENS MEDICAL CENTER",
+    "ADDRESS":"801 SEVENTH AVENUE",
+    "CITY":"FORT WORTH",
+    "STATE":"TX",
+    "ZIP":76104,
+    "API ADDRESS":"801 7th Ave, Fort Worth, TX 76104",
+    "COUNTY":"TARRANT",
+    "PHONE":6828854326,
+    "BEDS":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.60129,32.778628 ]
+    },
+    "properties": {
+    "NAME":"DALLAS REGIONAL MEDICAL CENTER",
+    "ADDRESS":"1011 NORTH GALLOWAY AVE",
+    "CITY":"MESQUITE",
+    "STATE":"TX",
+    "ZIP":75149,
+    "API ADDRESS":"1011 N Galloway Ave, Mesquite, TX 75149",
+    "COUNTY":"DALLAS",
+    "PHONE":2143207787,
+    "BEDS":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.169516,31.724893 ]
+    },
+    "properties": {
+    "NAME":"FREESTONE MEDICAL CENTER",
+    "ADDRESS":"125 NEWMAN STREET",
+    "CITY":"FAIRFIELD",
+    "STATE":"TX",
+    "ZIP":75840,
+    "API ADDRESS":"125 Newman St, Fairfield, TX 75840",
+    "COUNTY":"FREESTONE",
+    "PHONE":9033892121,
+    "BEDS":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.947397,29.567935 ]
+    },
+    "properties": {
+    "NAME":"GUADALUPE REGIONAL MEDICAL CENTER",
+    "ADDRESS":"1215 EAST COURT STREET",
+    "CITY":"SEGUIN",
+    "STATE":"TX",
+    "ZIP":78155,
+    "API ADDRESS":"1215 E Court St, Seguin, TX 78155",
+    "COUNTY":"GUADALUPE",
+    "PHONE":8303792411,
+    "BEDS":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.254977,30.05008 ]
+    },
+    "properties": {
+    "NAME":"HCA HOUSTON HEALTHCARE KINGWOOD",
+    "ADDRESS":"22999 US HIGHWAY 59",
+    "CITY":"KINGWOOD",
+    "STATE":"TX",
+    "ZIP":77339,
+    "API ADDRESS":"22999 US Highway 59 N, Humble, TX 77339",
+    "COUNTY":"MONTGOMERY",
+    "PHONE":2813488001,
+    "BEDS":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.594442,29.729197 ]
+    },
+    "properties": {
+    "NAME":"HCA HOUSTON HEALTHCARE WEST",
+    "ADDRESS":"12141 RICHMOND AVENUE",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77082,
+    "API ADDRESS":"12141 Richmond Ave, Houston, TX 77082",
+    "COUNTY":"HARRIS",
+    "PHONE":2815583444,
+    "BEDS":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.979045,29.769072 ]
+    },
+    "properties": {
+    "NAME":"HOUSTON METHODIST BAYTOWN HOSPITAL",
+    "ADDRESS":"4401 GARTH RD",
+    "CITY":"BAYTOWN",
+    "STATE":"TX",
+    "ZIP":77521,
+    "API ADDRESS":"4401 Garth Rd, Baytown, TX 77521",
+    "COUNTY":"HARRIS",
+    "PHONE":2814208600,
+    "BEDS":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.451727,30.205188 ]
+    },
+    "properties": {
+    "NAME":"HOUSTON METHODIST THE WOODLANDS HOSPITAL",
+    "ADDRESS":"17201 I-45 SOUTH",
+    "CITY":"THE WOODLANDS",
+    "STATE":"TX",
+    "ZIP":77385,
+    "API ADDRESS":"17201 I-45 S, Shenandoah, TX 77385",
+    "COUNTY":"MONTGOMERY",
+    "PHONE":9362702000,
+    "BEDS":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.697905,29.787208 ]
+    },
+    "properties": {
+    "NAME":"HOUSTON METHODIST WEST HOSPITAL",
+    "ADDRESS":"18500 KATY FWY",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77094,
+    "API ADDRESS":"18500 Katy Fwy, Houston, TX 77094",
+    "COUNTY":"HARRIS",
+    "PHONE":8325221000,
+    "BEDS":64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.588005,29.924425 ]
+    },
+    "properties": {
+    "NAME":"KINDRED HOSPITAL HOUSTON NW",
+    "ADDRESS":"11297 FALLBROOK DRIVE",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77065,
+    "API ADDRESS":"11297 Fallbrook Dr, Houston, TX 77065",
+    "COUNTY":"HARRIS",
+    "PHONE":2815171000,
+    "BEDS":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.590351,29.590754 ]
+    },
+    "properties": {
+    "NAME":"LEGENT ORTHOPEDIC + SPINE",
+    "ADDRESS":"5330 NORTH LOOP 1604 WEST",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78249,
+    "API ADDRESS":"5330 N Loop 1604 W, San Antonio, TX 78249",
+    "COUNTY":"BEXAR",
+    "PHONE":2108778000,
+    "BEDS":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.731952,29.986183 ]
+    },
+    "properties": {
+    "NAME":"MEMORIAL HERMANN CYPRESS HOSPITAL",
+    "ADDRESS":"27800 NORTHWEST FREEWAY",
+    "CITY":"CYPRESS",
+    "STATE":"TX",
+    "ZIP":77433,
+    "API ADDRESS":"27700 Northwest Fwy, Cypress, TX 77433",
+    "COUNTY":"HARRIS",
+    "PHONE":3462314000,
+    "BEDS":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.786189,29.787086 ]
+    },
+    "properties": {
+    "NAME":"MEMORIAL HERMANN KATY HOSPITAL",
+    "ADDRESS":"23900 KATY FREEWAY",
+    "CITY":"KATY",
+    "STATE":"TX",
+    "ZIP":77494,
+    "API ADDRESS":"23900 Katy Fwy, Katy, TX 77494",
+    "COUNTY":"HARRIS",
+    "PHONE":2816447000,
+    "BEDS":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.273599,29.994309 ]
+    },
+    "properties": {
+    "NAME":"MEMORIAL HERMANN NORTHEAST HOSPITAL",
+    "ADDRESS":"18951 MEMORIAL NORTH",
+    "CITY":"HUMBLE",
+    "STATE":"TX",
+    "ZIP":77338,
+    "API ADDRESS":"18951 Memorial Blvd, Humble, TX 77338",
+    "COUNTY":"HARRIS",
+    "PHONE":2815407700,
+    "BEDS":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.690119,29.564723 ]
+    },
+    "properties": {
+    "NAME":"MEMORIAL HERMANN SUGAR LAND HOSPITAL",
+    "ADDRESS":"17500 WEST GRAND PARKWAY SOUTH",
+    "CITY":"SUGAR LAND",
+    "STATE":"TX",
+    "ZIP":77479,
+    "API ADDRESS":"17500 W Grand Pkwy S, Sugar Land, TX 77479",
+    "COUNTY":"FORT BEND",
+    "PHONE":2817255202,
+    "BEDS":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.454003,30.174078 ]
+    },
+    "properties": {
+    "NAME":"MEMORIAL HERMANN THE WOODLANDS MEDICAL CENTER",
+    "ADDRESS":"9250 PINECROFT",
+    "CITY":"THE WOODLANDS",
+    "STATE":"TX",
+    "ZIP":77380,
+    "API ADDRESS":"9250 Pinecroft Dr, Shenandoah, TX 77380",
+    "COUNTY":"MONTGOMERY",
+    "PHONE":7138972301,
+    "BEDS":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.971275,35.864457 ]
+    },
+    "properties": {
+    "NAME":"MEMORIAL HOSPITAL",
+    "ADDRESS":"224 EAST SECOND STREET",
+    "CITY":"DUMAS",
+    "STATE":"TX",
+    "ZIP":79029,
+    "API ADDRESS":"224 E 2nd St, Dumas, TX 79029",
+    "COUNTY":"MOORE",
+    "PHONE":8069347801,
+    "BEDS":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.825026,32.76156 ]
+    },
+    "properties": {
+    "NAME":"METHODIST DALLAS MEDICAL CENTER",
+    "ADDRESS":"1441 NORTH BECKLEY AVENUE",
+    "CITY":"DALLAS",
+    "STATE":"TX",
+    "ZIP":75203,
+    "API ADDRESS":"1441 N Beckley Ave, Dallas, TX 75203",
+    "COUNTY":"DALLAS",
+    "PHONE":2149478181,
+    "BEDS":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.876347,32.64507 ]
+    },
+    "properties": {
+    "NAME":"METHODIST CHARLTON MEDICAL CENTER",
+    "ADDRESS":"3500 W WHEATLAND RD",
+    "CITY":"DALLAS",
+    "STATE":"TX",
+    "ZIP":75237,
+    "API ADDRESS":"3500 W Wheatland Rd, Dallas, TX 75237",
+    "COUNTY":"DALLAS",
+    "PHONE":2149477777,
+    "BEDS":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.094466,32.568385 ]
+    },
+    "properties": {
+    "NAME":"METHODIST MANSFIELD MEDICAL CENTER",
+    "ADDRESS":"2700 E BROAD ST",
+    "CITY":"MANSFIELD",
+    "STATE":"TX",
+    "ZIP":76063,
+    "API ADDRESS":"2700 E Broad St, Mansfield, TX 76063",
+    "COUNTY":"TARRANT",
+    "PHONE":6822426000,
+    "BEDS":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.69137,32.979315 ]
+    },
+    "properties": {
+    "NAME":"METHODIST RICHARDSON MEDICAL CENTER",
+    "ADDRESS":"2831 E PRES GEORGE BUSH HWY",
+    "CITY":"RICHARDSON",
+    "STATE":"TX",
+    "ZIP":75082,
+    "API ADDRESS":"Richardson, TX 75082",
+    "COUNTY":"COLLIN",
+    "PHONE":4692042000,
+    "BEDS":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.648719,31.612936 ]
+    },
+    "properties": {
+    "NAME":"NACOGDOCHES MEMORIAL HOSPITAL",
+    "ADDRESS":"1204 NORTH MOUND STREET",
+    "CITY":"NACOGDOCHES",
+    "STATE":"TX",
+    "ZIP":75961,
+    "API ADDRESS":"1204 N Mound St, Nacogdoches, TX 75961",
+    "COUNTY":"NACOGDOCHES",
+    "PHONE":9365644611,
+    "BEDS":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.347883,29.552277 ]
+    },
+    "properties": {
+    "NAME":"NORTHEAST METHODIST HOSPITAL",
+    "ADDRESS":"12412 JUDSON ROAD",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78233,
+    "API ADDRESS":"12412 Judson Rd, Live Oak, TX 78233",
+    "COUNTY":"BEXAR",
+    "PHONE":2107577000,
+    "BEDS":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.546351,32.337516 ]
+    },
+    "properties": {
+    "NAME":"PERMIAN REGIONAL MEDICAL CENTER",
+    "ADDRESS":"720 HOSPITAL DRIVE",
+    "CITY":"ANDREWS",
+    "STATE":"TX",
+    "ZIP":79714,
+    "API ADDRESS":"720 Hospital Dr, Andrews, TX 79714",
+    "COUNTY":"ANDREWS",
+    "PHONE":4324642103,
+    "BEDS":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.375079,27.686876 ]
+    },
+    "properties": {
+    "NAME":"SOUTH TEXAS SURGICAL HOSPITAL",
+    "ADDRESS":"6130 PARKWAY DRIVE",
+    "CITY":"CORPUS CHRISTI",
+    "STATE":"TX",
+    "ZIP":78414,
+    "API ADDRESS":"6130 Parkway Dr, Corpus Christi, TX 78414",
+    "COUNTY":"NUECES",
+    "PHONE":3619932000,
+    "BEDS":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.508451,30.069105 ]
+    },
+    "properties": {
+    "NAME":"SPRING HOSPITAL",
+    "ADDRESS":"20635 KUYKENDAHL ROAD",
+    "CITY":"SPRING",
+    "STATE":"TX",
+    "ZIP":77379,
+    "API ADDRESS":"20635 Kuykendahl Rd, Spring, TX 77379",
+    "COUNTY":"HARRIS",
+    "PHONE":3463314040,
+    "BEDS":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.726745,30.290681 ]
+    },
+    "properties": {
+    "NAME":"ST DAVIDS MEDICAL CENTER",
+    "ADDRESS":"919 E 32ND STREET",
+    "CITY":"AUSTIN",
+    "STATE":"TX",
+    "ZIP":78705,
+    "API ADDRESS":"919 E 32nd St, Austin, TX 78705",
+    "COUNTY":"TRAVIS",
+    "PHONE":5124767111,
+    "BEDS":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.773479,30.227468 ]
+    },
+    "properties": {
+    "NAME":"ST DAVIDS SOUTH AUSTIN MEDICAL CENTER",
+    "ADDRESS":"901 W BEN WHITE BLVD",
+    "CITY":"AUSTIN",
+    "STATE":"TX",
+    "ZIP":78704,
+    "API ADDRESS":"901 W Ben White Blvd, Austin, TX 78704",
+    "COUNTY":"TRAVIS",
+    "PHONE":5124472211,
+    "BEDS":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.458451,30.202798 ]
+    },
+    "properties": {
+    "NAME":"ST LUKES LAKESIDE HOSPITAL LLC",
+    "ADDRESS":"17400 ST LUKES WAY",
+    "CITY":"THE WOODLANDS",
+    "STATE":"TX",
+    "ZIP":77384,
+    "API ADDRESS":"17400 St Lukes Way, Conroe, TX 77384",
+    "COUNTY":"MONTGOMERY",
+    "PHONE":9362669110,
+    "BEDS":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.400365,29.708155 ]
+    },
+    "properties": {
+    "NAME":"TEXAS CHILDRENS HOSPITAL",
+    "ADDRESS":"6621 FANNIN STREET",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77030,
+    "API ADDRESS":"6621 Fannin St, Houston, TX 77030",
+    "COUNTY":"HARRIS",
+    "PHONE":8328241000,
+    "BEDS":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.420746,32.657808 ]
+    },
+    "properties": {
+    "NAME":"TEXAS HEALTH HARRIS METHODIST HOSPITAL SOUTHWEST FORT WORTH",
+    "ADDRESS":"6100 HARRIS PKWY",
+    "CITY":"FORT WORTH",
+    "STATE":"TX",
+    "ZIP":76132,
+    "API ADDRESS":"6100 Harris Pkwy, Fort Worth, TX 76132",
+    "COUNTY":"TARRANT",
+    "PHONE":8174335000,
+    "BEDS":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.465807,32.884889 ]
+    },
+    "properties": {
+    "NAME":"TEXAS HEALTH HOSPITAL ROCKWALL",
+    "ADDRESS":"3150 HORIZON ROAD",
+    "CITY":"ROCKWALL",
+    "STATE":"TX",
+    "ZIP":75032,
+    "API ADDRESS":"3150 Horizon Rd, Rockwall, TX 75032",
+    "COUNTY":"ROCKWALL",
+    "PHONE":4696981000,
+    "BEDS":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.316183,32.586584 ]
+    },
+    "properties": {
+    "NAME":"TEXAS HEALTH HUGULEY HOSPITAL",
+    "ADDRESS":"11801 SOUTH FREEWAY",
+    "CITY":"BURLESON",
+    "STATE":"TX",
+    "ZIP":76028,
+    "API ADDRESS":"11801 South Fwy, Burleson, TX 76028",
+    "COUNTY":"TARRANT",
+    "PHONE":8172939110,
+    "BEDS":70
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.06763,33.045566 ]
+    },
+    "properties": {
+    "NAME":"TEXAS HEALTH PRESBYTERIAN HOSPITAL FLOWER MOUND",
+    "ADDRESS":"4400 LONG PRAIRIE ROAD",
+    "CITY":"FLOWER MOUND",
+    "STATE":"TX",
+    "ZIP":75028,
+    "API ADDRESS":"4400 Long Prairie Rd, Flower Mound, TX 75028",
+    "COUNTY":"DENTON",
+    "PHONE":4693227000,
+    "BEDS":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.085732,30.341966 ]
+    },
+    "properties": {
+    "NAME":"TEXAS RURAL HOSPITALS",
+    "ADDRESS":"300 EAST CROCKETT",
+    "CITY":"CLEVELAND",
+    "STATE":"TX",
+    "ZIP":77327,
+    "API ADDRESS":"300 E Crockett St, Cleveland, TX 77327",
+    "COUNTY":"LIBERTY",
+    "PHONE":2815925410,
+    "BEDS":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.40423,29.803651 ]
+    },
+    "properties": {
+    "NAME":"THE HEIGHTS HOSPITAL",
+    "ADDRESS":"1917 ASHLAND ST",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77008,
+    "API ADDRESS":"1917 Ashland St, Houston, TX 77008",
+    "COUNTY":"HARRIS",
+    "PHONE":3463961314,
+    "BEDS":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.578784,32.952375 ]
+    },
+    "properties": {
+    "NAME":"TRINITY REGIONAL HOSPITAL SACHSE",
+    "ADDRESS":"4750 PRESIDENT GEORGE BUSH HIGHWAY",
+    "CITY":"SACHSE",
+    "STATE":"TX",
+    "ZIP":75048,
+    "API ADDRESS":"4750 N President George Bush Hwy, Garland, TX 75048",
+    "COUNTY":"DALLAS",
+    "PHONE":4692982599,
+    "BEDS":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.578904,29.508584 ]
+    },
+    "properties": {
+    "NAME":"UNIVERSITY HOSPITAL",
+    "ADDRESS":"4502 MEDICAL DRIVE",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78229,
+    "API ADDRESS":"4502 Medical Dr, San Antonio, TX 78229",
+    "COUNTY":"BEXAR",
+    "PHONE":2103584000,
+    "BEDS":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.892086,33.588252 ]
+    },
+    "properties": {
+    "NAME":"UNIVERSITY MEDICAL CENTER",
+    "ADDRESS":"602 INDIANA AVENUE",
+    "CITY":"LUBBOCK",
+    "STATE":"TX",
+    "ZIP":79415,
+    "API ADDRESS":"602 Indiana Ave, Lubbock, TX 79415",
+    "COUNTY":"LUBBOCK",
+    "PHONE":8067758200,
+    "BEDS":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.434012,31.771335 ]
+    },
+    "properties": {
+    "NAME":"UNIVERSITY MEDICAL CENTER OF EL PASO",
+    "ADDRESS":"4815 ALAMEDA AVENUE",
+    "CITY":"EL PASO",
+    "STATE":"TX",
+    "ZIP":79905,
+    "API ADDRESS":"4815 Alameda Ave, El Paso, TX 79905",
+    "COUNTY":"EL PASO",
+    "PHONE":9155441200,
+    "BEDS":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.961354,33.03256 ]
+    },
+    "properties": {
+    "NAME":"UT HEALTH EAST TEXAS PITTSBURG HOSPITAL",
+    "ADDRESS":"2701 US HIGHWAY 271 NORTH",
+    "CITY":"PITTSBURG",
+    "STATE":"TX",
+    "ZIP":75686,
+    "API ADDRESS":"2701 US Highway 271 N, Pittsburg, TX 75686",
+    "COUNTY":"CAMP",
+    "PHONE":9039465500,
+    "BEDS":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.291088,32.338206 ]
+    },
+    "properties": {
+    "NAME":"UT HEALTH EAST TEXAS TYLER REGIONAL HOSPITAL",
+    "ADDRESS":"1000 SOUTH BECKHAM AVENUE",
+    "CITY":"TYLER",
+    "STATE":"TX",
+    "ZIP":75701,
+    "API ADDRESS":"1000 S Beckham Ave, Tyler, TX 75701",
+    "COUNTY":"SMITH",
+    "PHONE":9035970351,
+    "BEDS":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.497577,25.980037 ]
+    },
+    "properties": {
+    "NAME":"VALLEY REGIONAL MEDICAL CENTER",
+    "ADDRESS":"100A E ALTON GLOOR BLVD",
+    "CITY":"BROWNSVILLE",
+    "STATE":"TX",
+    "ZIP":78526,
+    "API ADDRESS":"100 E Alton Gloor Blvd, Brownsville, TX 78526",
+    "COUNTY":"CAMERON",
+    "PHONE":9563507000,
+    "BEDS":8
+    }
+  }
+]
+}

@@ -1,0 +1,311 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.399072,31.11812 ]
+    },
+    "properties": {
+    "NAME":"BAYLOR SCOTT & WHITE CONTINUING CARE HOSPITAL",
+    "ADDRESS":"546 N KEGLEY RD",
+    "CITY":"TEMPLE",
+    "STATE":"TX",
+    "ZIP":76502,
+    "API ADDRESS":"546 N Kegley Rd, Temple, TX 76502",
+    "COUNTY":"BELL",
+    "PHONE":2542150900,
+    "BEDS":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.861277,27.500942 ]
+    },
+    "properties": {
+    "NAME":"CHRISTUS SPOHN HOSPITAL CORPUS CHRISTI SHORELINE",
+    "ADDRESS":"600 ELIZABETH STREET",
+    "CITY":"CORPUS CHRISTI",
+    "STATE":"TX",
+    "ZIP":78404,
+    "API ADDRESS":"608 Elizabeth Ave, Kingsville, TX 78363",
+    "COUNTY":"NUECES",
+    "PHONE":3618813148,
+    "BEDS":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.977678,28.81309 ]
+    },
+    "properties": {
+    "NAME":"CITIZENS MEDICAL CENTER",
+    "ADDRESS":"2701 HOSPITAL DRIVE",
+    "CITY":"VICTORIA",
+    "STATE":"TX",
+    "ZIP":77901,
+    "API ADDRESS":"2701 Hospital Dr, Victoria, TX 77901",
+    "COUNTY":"VICTORIA",
+    "PHONE":3615739181,
+    "BEDS":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.665323,32.576489 ]
+    },
+    "properties": {
+    "NAME":"HENDRICK MEDICAL CENTER",
+    "ADDRESS":"1900 PINE",
+    "CITY":"ABILENE",
+    "STATE":"TX",
+    "ZIP":79601,
+    "API ADDRESS":"Abilene, TX 79601",
+    "COUNTY":"TAYLOR",
+    "PHONE":3256702000,
+    "BEDS":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.99369,31.678089 ]
+    },
+    "properties": {
+    "NAME":"HENDRICK MEDICAL CENTER BROWNWOOD",
+    "ADDRESS":"1501 BURNETT RD",
+    "CITY":"BROWNWOOD",
+    "STATE":"TX",
+    "ZIP":76801,
+    "API ADDRESS":"1501 Burnett Rd, Brownwood, TX 76801",
+    "COUNTY":"BROWN",
+    "PHONE":3256493300,
+    "BEDS":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.966048,31.908644 ]
+    },
+    "properties": {
+    "NAME":"HENDRICK MEDICAL CENTER SOUTH",
+    "ADDRESS":"6250 US HIGHWAY 83",
+    "CITY":"ABILENE",
+    "STATE":"TX",
+    "ZIP":79606,
+    "API ADDRESS":"6254 US Hwy 83, Winters, TX 79567",
+    "COUNTY":"TAYLOR",
+    "PHONE":3254281010,
+    "BEDS":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.400335,29.709033 ]
+    },
+    "properties": {
+    "NAME":"HOUSTON METHODIST HOSPITAL",
+    "ADDRESS":"6565 FANNIN ST",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77030,
+    "API ADDRESS":"6565 Fannin St, Houston, TX 77030",
+    "COUNTY":"HARRIS",
+    "PHONE":7137903311,
+    "BEDS":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.479962,27.530851 ]
+    },
+    "properties": {
+    "NAME":"LAREDO MEDICAL CENTER",
+    "ADDRESS":"1700 EAST SAUNDERS STREET",
+    "CITY":"LAREDO",
+    "STATE":"TX",
+    "ZIP":78041,
+    "API ADDRESS":"1700 E Saunders St, Laredo, TX 78041",
+    "COUNTY":"WEBB",
+    "PHONE":9567965000,
+    "BEDS":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.396173,29.714052 ]
+    },
+    "properties": {
+    "NAME":"MEMORIAL HERMANN - TEXAS MEDICAL CENTER",
+    "ADDRESS":"6411 FANNIN",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77030,
+    "API ADDRESS":"6411 Fannin St, Houston, TX 77030",
+    "COUNTY":"HARRIS",
+    "PHONE":7137044000,
+    "BEDS":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.524605,29.785129 ]
+    },
+    "properties": {
+    "NAME":"MERIDIAN HOSPITAL PLLC",
+    "ADDRESS":"9430 KATY FREEWAY",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77055,
+    "API ADDRESS":"9430 Katy Fwy, Houston, TX 77055",
+    "COUNTY":"HARRIS",
+    "PHONE":8327301370,
+    "BEDS":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.770969,29.577706 ]
+    },
+    "properties": {
+    "NAME":"OAKBEND MEDICAL CENTER",
+    "ADDRESS":"1705 JACKSON STREET",
+    "CITY":"RICHMOND",
+    "STATE":"TX",
+    "ZIP":77469,
+    "API ADDRESS":"1705 Jackson St, Richmond, TX 77469",
+    "COUNTY":"FORT BEND",
+    "PHONE":2813413000,
+    "BEDS":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.592469,30.870666 ]
+    },
+    "properties": {
+    "NAME":"SCHLEICHER COUNTY MEDICAL CENTER",
+    "ADDRESS":"102 NORTH HIGHWAY 277",
+    "CITY":"ELDORADO",
+    "STATE":"TX",
+    "ZIP":76936,
+    "API ADDRESS":"102 N US Highway 277, Eldorado, TX 76936",
+    "COUNTY":"SCHLEICHER",
+    "PHONE":3258532507,
+    "BEDS":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.276242,29.998641 ]
+    },
+    "properties": {
+    "NAME":"SE TEXAS ER AND HOSPITAL",
+    "ADDRESS":"19211 MCKAY BLVD",
+    "CITY":"HUMBLE",
+    "STATE":"TX",
+    "ZIP":77338,
+    "API ADDRESS":"19211 McKay Blvd, Humble, TX 77338",
+    "COUNTY":"HARRIS",
+    "PHONE":2818835500,
+    "BEDS":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.402302,31.471467 ]
+    },
+    "properties": {
+    "NAME":"SHANNON MEDICAL CENTER ST JOHNS CAMPUS",
+    "ADDRESS":"2018 PULLIAM STREET",
+    "CITY":"SAN ANGELO",
+    "STATE":"TX",
+    "ZIP":76905,
+    "API ADDRESS":"2018 Pulliam St, San Angelo, TX 76905",
+    "COUNTY":"TOM GREEN",
+    "PHONE":3256536741,
+    "BEDS":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.366207,29.748091 ]
+    },
+    "properties": {
+    "NAME":"ST JOSEPH MEDICAL CENTER",
+    "ADDRESS":"1401 ST JOSEPH PARKWAY",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77002,
+    "API ADDRESS":"1401 St Joseph Pkwy, Houston, TX 77002",
+    "COUNTY":"HARRIS",
+    "PHONE":7137565007,
+    "BEDS":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.318447,32.59219 ]
+    },
+    "properties": {
+    "NAME":"TEXAS HEALTH PRESBYTERIAN HOSPITAL KAUFMAN",
+    "ADDRESS":"850 ED HALL DRIVE",
+    "CITY":"KAUFMAN",
+    "STATE":"TX",
+    "ZIP":75142,
+    "API ADDRESS":"850 Ed Hall Dr, Kaufman, TX 75142",
+    "COUNTY":"KAUFMAN",
+    "PHONE":9729327200,
+    "BEDS":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.074189,33.412317 ]
+    },
+    "properties": {
+    "NAME":"WADLEY REGIONAL MEDICAL CENTER",
+    "ADDRESS":"1000 PINE",
+    "CITY":"TEXARKANA",
+    "STATE":"TX",
+    "ZIP":75501,
+    "API ADDRESS":"904 Texarkana Ave, Texarkana, TX 75501",
+    "COUNTY":"BOWIE",
+    "PHONE":9037988000,
+    "BEDS":14
+    }
+  }
+]
+}

@@ -1,0 +1,149 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.122796,30.072648 ]
+    },
+    "properties": {
+    "NAME":"BAPTIST HOSPITALS OF SOUTHEAST TEXAS FANNIN BEHAVIORAL CENTER",
+    "ADDRESS":"3250 FANNIN",
+    "CITY":"BEAUMONT",
+    "STATE":"TX",
+    "ZIP":77701,
+    "API ADDRESS":"3250 Fannin St, Beaumont, TX 77701",
+    "COUNTY":"JEFFERSON",
+    "PHONE":4092127000,
+    "BEDS":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.726424,32.974164 ]
+    },
+    "properties": {
+    "NAME":"METHODIST RICHARDSON MEDICAL CENTER CAMPUS FOR CONTINUING CARE",
+    "ADDRESS":"401 W CAMPBELL ROAD",
+    "CITY":"RICHARDSON",
+    "STATE":"TX",
+    "ZIP":75080,
+    "API ADDRESS":"401 W Campbell Rd, Richardson, TX 75080",
+    "COUNTY":"DALLAS",
+    "PHONE":4692042000,
+    "BEDS":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.576438,29.513915 ]
+    },
+    "properties": {
+    "NAME":"METHODIST SPECIALTY & TRANSPLANT HOSPITAL",
+    "ADDRESS":"8026 FLOYD CURL DRIVE",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78229,
+    "API ADDRESS":"8026 Floyd Curl Dr, San Antonio, TX 78229",
+    "COUNTY":"BEXAR",
+    "PHONE":2105758110,
+    "BEDS":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.644399,31.738816 ]
+    },
+    "properties": {
+    "NAME":"PALESTINE REGIONAL MEDICAL CENTER - REHAB & PSYCHIATRIC CAMPUS",
+    "ADDRESS":"4000 SOUTH LOOP 256",
+    "CITY":"PALESTINE",
+    "STATE":"TX",
+    "ZIP":75801,
+    "API ADDRESS":"4000 S Loop 256, Palestine, TX 75801",
+    "COUNTY":"ANDERSON",
+    "PHONE":9037311000,
+    "BEDS":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.402302,31.471467 ]
+    },
+    "properties": {
+    "NAME":"SHANNON MEDICAL CENTER ST JOHNS CAMPUS",
+    "ADDRESS":"2018 PULLIAM STREET",
+    "CITY":"SAN ANGELO",
+    "STATE":"TX",
+    "ZIP":76905,
+    "API ADDRESS":"2018 Pulliam St, San Angelo, TX 76905",
+    "COUNTY":"TOM GREEN",
+    "PHONE":3256536741,
+    "BEDS":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.190473,26.262356 ]
+    },
+    "properties": {
+    "NAME":"SOUTH TEXAS HEALTH SYSTEM BEHAVIORAL",
+    "ADDRESS":"2102 WEST TRENTON ROAD",
+    "CITY":"EDINBURG",
+    "STATE":"TX",
+    "ZIP":78503,
+    "API ADDRESS":"2102 W Trenton Rd, Edinburg, TX 78539",
+    "COUNTY":"HIDALGO",
+    "PHONE":9563881300,
+    "BEDS":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.366207,29.748091 ]
+    },
+    "properties": {
+    "NAME":"ST JOSEPH MEDICAL CENTER",
+    "ADDRESS":"1401 ST JOSEPH PARKWAY",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77002,
+    "API ADDRESS":"1401 St Joseph Pkwy, Houston, TX 77002",
+    "COUNTY":"HARRIS",
+    "PHONE":7137565007,
+    "BEDS":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.761274,32.879541 ]
+    },
+    "properties": {
+    "NAME":"TEXAS HEALTH PRESBYTERIAN HOSPITAL DALLAS",
+    "ADDRESS":"8200 WALNUT HILL LN",
+    "CITY":"DALLAS",
+    "STATE":"TX",
+    "ZIP":75231,
+    "API ADDRESS":"8200 Walnut Hill Ln, Dallas, TX 75231",
+    "COUNTY":"DALLAS",
+    "PHONE":2143456789,
+    "BEDS":20
+    }
+  }
+]
+}
