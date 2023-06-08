@@ -1,0 +1,4005 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.668725,30.64594 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3649",
+    "LEGAL NAME":"BLUEBONNET TRAILS COMMUNITY MHMR CENTER",
+    "DBA NAME":"BLUEBONNET TRAILS COMMUNITY SERVICES",
+    "ADDRESS":"711 NORTH COLLEGE STREET",
+    "CITY":"GEORGETOWN",
+    "STATE":"TX",
+    "ZIP":78628,
+    "COUNTY":"WILLIAMSON",
+    "PHONE":5128638968,
+    "BEDS":4,
+    "API ADDRESS":"711 N College St, Georgetown, TX 78626"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.829043,32.282673 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"549E",
+    "LEGAL NAME":"SHADES OF HOPE LP",
+    "DBA NAME":"",
+    "ADDRESS":"694 PECAN",
+    "CITY":"BUFFALO GAP",
+    "STATE":"TX",
+    "ZIP":79508,
+    "COUNTY":"TAYLOR",
+    "PHONE":9155723843,
+    "BEDS":4,
+    "API ADDRESS":"694 Pecan St, Buffalo Gap, TX 79508"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.456756,29.600221 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4754",
+    "LEGAL NAME":"NUME HOUSING LLC",
+    "DBA NAME":"",
+    "ADDRESS":"5114 DANFIELD DRIVE",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77053,
+    "COUNTY":"HARRIS",
+    "PHONE":8328565404,
+    "BEDS":5,
+    "API ADDRESS":"5114 Danfield Dr, Houston, TX 77053"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.438649,29.841431 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"1930A",
+    "LEGAL NAME":"CENTER FOR SUCCESS AND INDEPENDENCE",
+    "DBA NAME":"",
+    "ADDRESS":"3722 PINEMONT DRIVE",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77018,
+    "COUNTY":"HARRIS",
+    "PHONE":7134264545,
+    "BEDS":6,
+    "API ADDRESS":"3722 Pinemont Dr, Houston, TX 77018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.144986,32.597038 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4781",
+    "LEGAL NAME":"GALLUS DETOX DALLAS PLLC",
+    "DBA NAME":"",
+    "ADDRESS":"1776 US 287 #250",
+    "CITY":"MANSFIELD",
+    "STATE":"TX",
+    "ZIP":76063,
+    "COUNTY":"TARRANT",
+    "PHONE":6824227518,
+    "BEDS":7,
+    "API ADDRESS":"1776 N US 287, # 250, Mansfield, TX 76063"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.328236,29.829888 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3345",
+    "LEGAL NAME":"PATHWAY TO SERENITY INC",
+    "DBA NAME":"",
+    "ADDRESS":"4214 E. TOLIVER",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77016,
+    "COUNTY":"HARRIS",
+    "PHONE":7136310366,
+    "BEDS":7,
+    "API ADDRESS":"4214 E Toliver St, Houston, TX 77016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.969135,29.731552 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3806",
+    "LEGAL NAME":"CAN BEHAVIORAL HEALTH",
+    "DBA NAME":"",
+    "ADDRESS":"105 WEST PEARCE STREET",
+    "CITY":"BAYTOWN",
+    "STATE":"TX",
+    "ZIP":77520,
+    "COUNTY":"HARRIS",
+    "PHONE":2814274226,
+    "BEDS":8,
+    "API ADDRESS":"105 W Pearce St, Baytown, TX 77520"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.513311,25.933015 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4212",
+    "LEGAL NAME":"OUTCOMES DETOX CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"425 EAST LOS EBANOS BOULEVARD SUITE 101",
+    "CITY":"BROWNSVILLE",
+    "STATE":"TX",
+    "ZIP":78520,
+    "COUNTY":"CAMERON",
+    "PHONE":9566210962,
+    "BEDS":8,
+    "API ADDRESS":"425 E Los Ebanos Blvd, Ste 101, Brownsville, TX 78520"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.485972,29.27701 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4151",
+    "LEGAL NAME":"SERENITY LIGHT RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1828 EAST COUNTY ROAD 36 BUILDING B",
+    "CITY":"ANGLETON",
+    "STATE":"TX",
+    "ZIP":77515,
+    "COUNTY":"BRAZORIA",
+    "PHONE":2814316700,
+    "BEDS":8,
+    "API ADDRESS":"1828 County Rd 36, Bldg, Angleton, TX 77515"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.316035,29.693922 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4708",
+    "LEGAL NAME":"THE HARRIS CENTER FOR MENTAL HEALTH AND IDD",
+    "DBA NAME":"",
+    "ADDRESS":"6160 SOUTH LOOP EAST",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77087,
+    "COUNTY":"HARRIS",
+    "PHONE":7139703333,
+    "BEDS":8,
+    "API ADDRESS":"6160 S Loop E, Houston, TX 77087"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.52391,29.710346 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3672",
+    "LEGAL NAME":"DISCOVERY COMMUNITY OF HOUSTON LLC",
+    "DBA NAME":"",
+    "ADDRESS":"7811 HORNWOOD DR.",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77036,
+    "COUNTY":"HARRIS",
+    "PHONE":2818577591,
+    "BEDS":9,
+    "API ADDRESS":"7811 Hornwood Dr, Houston, TX 77036"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.52391,29.710346 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3921",
+    "LEGAL NAME":"DISCOVERY COMMUNITY OF HOUSTON LLC",
+    "DBA NAME":"",
+    "ADDRESS":"7811 HORNWOOD DRIVE",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77036,
+    "COUNTY":"HARRIS",
+    "PHONE":8324911757,
+    "BEDS":9,
+    "API ADDRESS":"7811 Hornwood Dr, Houston, TX 77036"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.39382,29.783546 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4625",
+    "LEGAL NAME":"LUNA RECOVERY SERVICES LLC",
+    "DBA NAME":"",
+    "ADDRESS":"702 ARLINGTON STREET",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77007,
+    "COUNTY":"HARRIS",
+    "PHONE":8328502980,
+    "BEDS":9,
+    "API ADDRESS":"702 Arlington St, Houston, TX 77007"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.027272,29.525838 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4275",
+    "LEGAL NAME":"KEMAH PALMS RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1009 DELESANDRI LANE",
+    "CITY":"KEMAH",
+    "STATE":"TX",
+    "ZIP":77565,
+    "COUNTY":"GALVESTON",
+    "PHONE":7135681210,
+    "BEDS":10,
+    "API ADDRESS":"1009 Delesandri Ln, Kemah, TX 77565"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.741365,32.48923 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"107T",
+    "LEGAL NAME":"SABINE VALLEY REGIONAL MHMR CENTER",
+    "DBA NAME":"",
+    "ADDRESS":"425 SOUTH MAIN",
+    "CITY":"LONGVIEW",
+    "STATE":"TX",
+    "ZIP":75601,
+    "COUNTY":"GREGG",
+    "PHONE":9032363898,
+    "BEDS":10,
+    "API ADDRESS":"425 S Main St, Longview, TX 75601"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.48549,29.276201 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4149",
+    "LEGAL NAME":"SERENITY LIGHT RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1844 EAST COUNTY ROAD 36 BUILDING C",
+    "CITY":"ANGLETON",
+    "STATE":"TX",
+    "ZIP":77515,
+    "COUNTY":"BRAZORIA",
+    "PHONE":2814316700,
+    "BEDS":10,
+    "API ADDRESS":"1844 County Rd 36, Bldg, Angleton, TX 77515"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.158987,30.018043 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4422",
+    "LEGAL NAME":"PB TEXAS BEHAVIORAL CARE LLC",
+    "DBA NAME":"THE RIGHT STEP - PB BEHAVIORAL HEALTH",
+    "ADDRESS":"320 FISCHER STORE ROAD",
+    "CITY":"WIMBERLEY",
+    "STATE":"TX",
+    "ZIP":78676,
+    "COUNTY":"HAYS",
+    "PHONE":5128476179,
+    "BEDS":11,
+    "API ADDRESS":"320 Fischer Store Rd, Wimberley, TX 78676"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.293231,29.685479 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4120",
+    "LEGAL NAME":"ALLIANCE RISK GROUP LLC",
+    "DBA NAME":"",
+    "ADDRESS":"7445 PARK PLACE BOULEVARD",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77087,
+    "COUNTY":"HARRIS",
+    "PHONE":8327671560,
+    "BEDS":12,
+    "API ADDRESS":"7445 Park Place Blvd, Houston, TX 77087"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.742914,34.182841 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"283I",
+    "LEGAL NAME":"CENTRAL PLAINS CENTER",
+    "DBA NAME":"",
+    "ADDRESS":"404 FLOYDADA",
+    "CITY":"PLAINVIEW",
+    "STATE":"TX",
+    "ZIP":79072,
+    "COUNTY":"HALE",
+    "PHONE":8062914422,
+    "BEDS":12,
+    "API ADDRESS":"404 Floydada St, Plainview, TX 79072"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.137655,30.733992 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4808",
+    "LEGAL NAME":"PERSONAL RESPONSIBILITY RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"738 COUNTY ROAD 304",
+    "CITY":"BERTRAM",
+    "STATE":"TX",
+    "ZIP":78605,
+    "COUNTY":"BURNET",
+    "PHONE":5125892661,
+    "BEDS":12,
+    "API ADDRESS":"738 County Rd 304, Bertram, TX 78605"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.497322,27.362865 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3269",
+    "LEGAL NAME":"SERVING CHILDREN AND ADULTS IN NEED, INC.",
+    "DBA NAME":"",
+    "ADDRESS":"1817 PATRICIA LANE, OPT (BUILDING B)",
+    "CITY":"RIO BRAVO",
+    "STATE":"TX",
+    "ZIP":78046,
+    "COUNTY":"WEBB",
+    "PHONE":9567917800,
+    "BEDS":12,
+    "API ADDRESS":"1817 Patricia Ln, Bldg B, Rio Bravo, TX 78046"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.027986,29.927003 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4431",
+    "LEGAL NAME":"STARLITE RECOVERY CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"230 MESA VERDE DRIVE EAST BUILDING B",
+    "CITY":"CENTER POINT",
+    "STATE":"TX",
+    "ZIP":78010,
+    "COUNTY":"KERR",
+    "PHONE":8002920148,
+    "BEDS":12,
+    "API ADDRESS":"230 Mesa Verde Dr E, Bldg B, Center Point, TX 78010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.365092,29.728305 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"2099A",
+    "LEGAL NAME":"SHAMAR HOPE HAVEN RESIDENTIAL TREATMENT CENTER",
+    "DBA NAME":"",
+    "ADDRESS":"2719 TRUXILLO STREET",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77004,
+    "COUNTY":"HARRIS",
+    "PHONE":7139428009,
+    "BEDS":13,
+    "API ADDRESS":"2719 Truxillo St, Houston, TX 77004"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.027986,29.927003 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4432",
+    "LEGAL NAME":"STARLITE RECOVERY CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"230 MESA VERDE DRIVE EAST BUILDING C",
+    "CITY":"CENTER POINT",
+    "STATE":"TX",
+    "ZIP":78010,
+    "COUNTY":"KERR",
+    "PHONE":8306342212,
+    "BEDS":13,
+    "API ADDRESS":"230 Mesa Verde Dr E, Bldg C, Center Point, TX 78010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.301311,32.746686 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"2420A",
+    "LEGAL NAME":"THE SALVATION ARMY",
+    "DBA NAME":"",
+    "ADDRESS":"1855 EAST LANCASTER",
+    "CITY":"FORT WORTH",
+    "STATE":"TX",
+    "ZIP":76103,
+    "COUNTY":"TARRANT",
+    "PHONE":8173441850,
+    "BEDS":13,
+    "API ADDRESS":"1855 E Lancaster Ave, Fort Worth, TX 76103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.629536,29.411289 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4054",
+    "LEGAL NAME":"BEXAR COUNTY BOARD OF TRUSTEES FOR MHMR SERVICES",
+    "DBA NAME":"",
+    "ADDRESS":"7137 WEST MILITARY DRIVE",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78227,
+    "COUNTY":"BEXAR",
+    "PHONE":2102611572,
+    "BEDS":14,
+    "API ADDRESS":"7137 W Military Dr, San Antonio, TX 78227"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.786099,26.430936 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3903",
+    "LEGAL NAME":"MESQUITE TREATMENT CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"13921 SHADY DRIVE SOUTH",
+    "CITY":"LYFORD",
+    "STATE":"TX",
+    "ZIP":78569,
+    "COUNTY":"WILLACY",
+    "PHONE":9564282100,
+    "BEDS":14,
+    "API ADDRESS":"13921 Shady Dr S, Lyford, TX 78569"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.829043,32.282386 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"549A",
+    "LEGAL NAME":"SHADES OF HOPE LP",
+    "DBA NAME":"",
+    "ADDRESS":"402 MULBERRY STREET A&B 626 B OAK STREET (RES GROUP ONLY)",
+    "CITY":"BUFFALO GAP",
+    "STATE":"TX",
+    "ZIP":79508,
+    "COUNTY":"TAYLOR",
+    "PHONE":3255723843,
+    "BEDS":14,
+    "API ADDRESS":"402 A A Mulberry St B 626, Buffalo Gap, TX 79508"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.769321,29.313542 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"597C",
+    "LEGAL NAME":"THE ALCOHOL/DRUG ABUSE WOMEN&apos;S CENTER INC",
+    "DBA NAME":"",
+    "ADDRESS":"201 FIRST STREET",
+    "CITY":"GALVESTON",
+    "STATE":"TX",
+    "ZIP":77550,
+    "COUNTY":"GALVESTON",
+    "PHONE":4097635516,
+    "BEDS":14,
+    "API ADDRESS":"201 1st St, Galveston, TX 77550"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.892089,30.112148 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4797",
+    "LEGAL NAME":"AVA RECOVERY CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"815 ELLIOT RANCH RD",
+    "CITY":"BUDA",
+    "STATE":"TX",
+    "ZIP":78610,
+    "COUNTY":"HAYS",
+    "PHONE":5123124868,
+    "BEDS":15,
+    "API ADDRESS":"815 Elliott Ranch Rd, Buda, TX 78610"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.499488,32.021138 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4159",
+    "LEGAL NAME":"BRAZOS RESIDENTIAL TREATMENT CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"300 FM 927",
+    "CITY":"MORGAN",
+    "STATE":"TX",
+    "ZIP":76671,
+    "COUNTY":"BOSQUE",
+    "PHONE":2542321550,
+    "BEDS":15,
+    "API ADDRESS":"300 Farm To Market Rd 927, Morgan, TX 76671"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.332979,31.864936 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"339CV",
+    "LEGAL NAME":"CLOVER HOUSE INC",
+    "DBA NAME":"",
+    "ADDRESS":"823 IDLEWOOD",
+    "CITY":"ODESSA",
+    "STATE":"TX",
+    "ZIP":79761,
+    "COUNTY":"ECTOR",
+    "PHONE":4325800278,
+    "BEDS":15,
+    "API ADDRESS":"823 Idlewood Ln, Odessa, TX 79761"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.322135,29.768534 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"1984A",
+    "LEGAL NAME":"DAVID & IVORY MINISTRIES",
+    "DBA NAME":"THE LIEUTENANTS HOUSE",
+    "ADDRESS":"4728 GUNTER STREET",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77020,
+    "COUNTY":"HARRIS",
+    "PHONE":7136753823,
+    "BEDS":15,
+    "API ADDRESS":"4728 Gunter St, Houston, TX 77020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.802324,30.19652 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4223",
+    "LEGAL NAME":"RECOVERY UNPLUGGED AUSTIN LLC",
+    "DBA NAME":"",
+    "ADDRESS":"7211 ALBERT ROAD",
+    "CITY":"AUSTIN",
+    "STATE":"TX",
+    "ZIP":78745,
+    "COUNTY":"TRAVIS",
+    "PHONE":5126366001,
+    "BEDS":15,
+    "API ADDRESS":"7211 Albert Rd, Austin, TX 78745"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.683,30.387422 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4064",
+    "LEGAL NAME":"TEXAS NEW LEAF LLC",
+    "DBA NAME":"BRIARWOOD DETOX CENTER",
+    "ADDRESS":"11711 NORTH LAMAR BOULEVARD",
+    "CITY":"AUSTIN",
+    "STATE":"TX",
+    "ZIP":78753,
+    "COUNTY":"TRAVIS",
+    "PHONE":7136145796,
+    "BEDS":15,
+    "API ADDRESS":"11711 N Lamar Blvd, Austin, TX 78753"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.317944,25.943923 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3416",
+    "LEGAL NAME":"THE GEO GROUP INC",
+    "DBA NAME":"",
+    "ADDRESS":"5965 N. EXPRESSWAY 77/83",
+    "CITY":"BROWNSVILLE",
+    "STATE":"TX",
+    "ZIP":78521,
+    "COUNTY":"CAMERON",
+    "PHONE":9563503070,
+    "BEDS":15,
+    "API ADDRESS":"Brownsville, TX 78521"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.667502,26.255523 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4874",
+    "LEGAL NAME":"TROPICAL TEXAS BEHAVIORAL HEALTH",
+    "DBA NAME":"",
+    "ADDRESS":"105 NORTH LOOP 499",
+    "CITY":"HARLINGEN",
+    "STATE":"TX",
+    "ZIP":78550,
+    "COUNTY":"CAMERON",
+    "PHONE":9562897100,
+    "BEDS":15,
+    "API ADDRESS":"Harlingen, TX 78550"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.172263,30.072251 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4696",
+    "LEGAL NAME":"WESTBRIDGE RECOVERY CENTER INC",
+    "DBA NAME":"",
+    "ADDRESS":"4107 ACORN LANE",
+    "CITY":"PORTER",
+    "STATE":"TX",
+    "ZIP":77365,
+    "COUNTY":"HARRIS",
+    "PHONE":2816087600,
+    "BEDS":15,
+    "API ADDRESS":"4107 Acorn Ln, Porter, TX 77365"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.486587,29.437455 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"438B",
+    "LEGAL NAME":"ALPHA HOME, INC.",
+    "DBA NAME":"",
+    "ADDRESS":"814 CAMDEN STREET & 419 E. MAGNOLIA",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78212,
+    "COUNTY":"BEXAR",
+    "PHONE":2107353822,
+    "BEDS":16,
+    "API ADDRESS":"814 Camden St 419, San Antonio, TX 78215"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.785775,32.650485 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4815",
+    "LEGAL NAME":"DALLAS DETOX LLC",
+    "DBA NAME":"",
+    "ADDRESS":"100 MARIAH DRIVE",
+    "CITY":"WEATHERFORD",
+    "STATE":"TX",
+    "ZIP":76087,
+    "COUNTY":"PARKER",
+    "PHONE":8557051778,
+    "BEDS":16,
+    "API ADDRESS":"100 Mariah Dr, Weatherford, TX 76087"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.857668,30.232742 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4825",
+    "LEGAL NAME":"HEARTWOOD RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"6404 RIDGE OAK RD.",
+    "CITY":"AUSTIN",
+    "STATE":"TX",
+    "ZIP":78749,
+    "COUNTY":"TRAVIS",
+    "PHONE":7372306375,
+    "BEDS":16,
+    "API ADDRESS":"6404 Ridge Oak Rd, Austin, TX 78749"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.330367,32.727576 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"104N",
+    "LEGAL NAME":"MHMR OF TARRANT COUNTY",
+    "DBA NAME":"",
+    "ADDRESS":"1527 HEMPHILL",
+    "CITY":"FORT WORTH",
+    "STATE":"TX",
+    "ZIP":76104,
+    "COUNTY":"TARRANT",
+    "PHONE":8175694270,
+    "BEDS":16,
+    "API ADDRESS":"1527 Hemphill St, Fort Worth, TX 76104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.311872,30.557237 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4237",
+    "LEGAL NAME":"MTR TREATMENT CORP",
+    "DBA NAME":"",
+    "ADDRESS":"13432 ALACIA COURT",
+    "CITY":"COLLEGE STATION",
+    "STATE":"TX",
+    "ZIP":77845,
+    "COUNTY":"BRAZOS",
+    "PHONE":9796901024,
+    "BEDS":16,
+    "API ADDRESS":"13432 Alacia Ct, College Station, TX 77845"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.513311,25.933015 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4213",
+    "LEGAL NAME":"OUTCOMES DETOX CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"425 EAST LOS EBANOS BOULEVARD SUITES 108-109",
+    "CITY":"BROWNSVILLE",
+    "STATE":"TX",
+    "ZIP":78520,
+    "COUNTY":"CAMERON",
+    "PHONE":9566210962,
+    "BEDS":16,
+    "API ADDRESS":"425 E Los Ebanos Blvd, Ste 109, Brownsville, TX 78520"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.181808,33.093491 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4734",
+    "LEGAL NAME":"ROOTS ADOLESCENT RENEWAL RANCH",
+    "DBA NAME":"",
+    "ADDRESS":"819 INDIAN TRAIL",
+    "CITY":"ARGYLE",
+    "STATE":"TX",
+    "ZIP":76226,
+    "COUNTY":"DENTON",
+    "PHONE":8883990489,
+    "BEDS":16,
+    "API ADDRESS":"819 Indian Trl, Argyle, TX 76226"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.57859,30.277085 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4312",
+    "LEGAL NAME":"SAGE RECOVERY & WELLNESS CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"7201 GILBERT ROAD",
+    "CITY":"MANOR",
+    "STATE":"TX",
+    "ZIP":78653,
+    "COUNTY":"TRAVIS",
+    "PHONE":5123061394,
+    "BEDS":16,
+    "API ADDRESS":"7201 Gilbert Rd, Manor, TX 78653"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.739974,32.452141 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"162W",
+    "LEGAL NAME":"SERENITY FOUNDATION OF TEXAS",
+    "DBA NAME":"",
+    "ADDRESS":"1542 NORTH 3RD STREET",
+    "CITY":"ABILENE",
+    "STATE":"TX",
+    "ZIP":79601,
+    "COUNTY":"TAYLOR",
+    "PHONE":3256736489,
+    "BEDS":16,
+    "API ADDRESS":"1542 N 3rd St, Abilene, TX 79601"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.479932,27.455435 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"788F",
+    "LEGAL NAME":"SERVING CHILDREN AND ADULTS IN NEED INC",
+    "DBA NAME":"",
+    "ADDRESS":"402 RIVERHILL LOOP",
+    "CITY":"LAREDO",
+    "STATE":"TX",
+    "ZIP":78046,
+    "COUNTY":"WEBB",
+    "PHONE":9567230200,
+    "BEDS":16,
+    "API ADDRESS":"402 Riverhill Loop, Laredo, TX 78046"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.727959,26.127091 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3090",
+    "LEGAL NAME":"SERVING CHILDREN AND ADULTS IN NEED INC",
+    "DBA NAME":"",
+    "ADDRESS":"29783 RANGERVILLE ROAD",
+    "CITY":"HARLINGEN",
+    "STATE":"TX",
+    "ZIP":78552,
+    "COUNTY":"CAMERON",
+    "PHONE":9564285200,
+    "BEDS":16,
+    "API ADDRESS":"29783 Rangerville Rd, Harlingen, TX 78552"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.497408,29.709547 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"151N",
+    "LEGAL NAME":"TEXAS WEST OAKS HOSPITAL LP",
+    "DBA NAME":"",
+    "ADDRESS":"6500 HORNWOOD UNIT 10",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77074,
+    "COUNTY":"HARRIS",
+    "PHONE":7139950909,
+    "BEDS":16,
+    "API ADDRESS":"6500 Hornwood Dr, Unit 10, Houston, TX 77074"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.938293,29.636814 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4559",
+    "LEGAL NAME":"THE ORCHARD ON THE BRAZOS",
+    "DBA NAME":"",
+    "ADDRESS":"2548 AYLOR ROAD",
+    "CITY":"WALLIS",
+    "STATE":"TX",
+    "ZIP":77485,
+    "COUNTY":"FORT BEND",
+    "PHONE":7132967511,
+    "BEDS":16,
+    "API ADDRESS":"2548 Ayler Rd, Wallis, TX 77485"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.082972,32.035425 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4631",
+    "LEGAL NAME":"THE SPRINGBOARD CENTER",
+    "DBA NAME":"",
+    "ADDRESS":"200 CORPORATE DRIVE",
+    "CITY":"MIDLAND",
+    "STATE":"TX",
+    "ZIP":79705,
+    "COUNTY":"MIDLAND",
+    "PHONE":4326200255,
+    "BEDS":16,
+    "API ADDRESS":"200 Corporate Dr, Midland, TX 79705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.16469,26.10369 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3854",
+    "LEGAL NAME":"ORIGINS RECOVERY OF TEXAS LLC",
+    "DBA NAME":"",
+    "ADDRESS":"207 & 201 WEST ARIES DRIVE BLDGS. 1 & 2",
+    "CITY":"SOUTH PADRE ISLAND",
+    "STATE":"TX",
+    "ZIP":78597,
+    "COUNTY":"CAMERON",
+    "PHONE":9567729200,
+    "BEDS":17,
+    "API ADDRESS":"South Padre Island, TX 78597"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.461518,30.211529 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4771",
+    "LEGAL NAME":"FIRST CITY RECOVERY HOUSTON LLC",
+    "DBA NAME":"MAGNOLIA CITY DETOX",
+    "ADDRESS":"1006 WINDSOR LAKES BLVD STE. #200",
+    "CITY":"CONROE",
+    "STATE":"TX",
+    "ZIP":77384,
+    "COUNTY":"MONTGOMERY",
+    "PHONE":7133011509,
+    "BEDS":18,
+    "API ADDRESS":"1006 Windsor Lake Blvd, Ste 200, Conroe, TX 77384"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.056716,30.110535 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4118",
+    "LEGAL NAME":"OBRC OPERATIONS LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1905 ELDERHILL ROAD",
+    "CITY":"DRIFTWOOD",
+    "STATE":"TX",
+    "ZIP":78619,
+    "COUNTY":"HAYS",
+    "PHONE":5128426767,
+    "BEDS":18,
+    "API ADDRESS":"1905 Elder Hill Rd, Driftwood, TX 78619"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.739737,32.451891 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"162E",
+    "LEGAL NAME":"SERENITY FOUNDATION OF TEXAS",
+    "DBA NAME":"",
+    "ADDRESS":"1533 NORTH 3RD STREET",
+    "CITY":"ABILENE",
+    "STATE":"TX",
+    "ZIP":79601,
+    "COUNTY":"TAYLOR",
+    "PHONE":3256736489,
+    "BEDS":18,
+    "API ADDRESS":"1533 N 3rd St, Abilene, TX 79601"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.05234,29.460238 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"728A",
+    "LEGAL NAME":"BAY AREA RECOVERY CENTER LTD",
+    "DBA NAME":"",
+    "ADDRESS":"4316 WASHINGTON STREET",
+    "CITY":"DICKINSON",
+    "STATE":"TX",
+    "ZIP":77539,
+    "COUNTY":"GALVESTON",
+    "PHONE":2813371343,
+    "BEDS":19,
+    "API ADDRESS":"4316 Washington St, Dickinson, TX 77539"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.886953,32.281125 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4197",
+    "LEGAL NAME":"DISCOVERY POINT RETREAT INC",
+    "DBA NAME":"DISCOVERY POINT RETREAT WAXAHACHIE INC",
+    "ADDRESS":"530 HIGHT ROAD",
+    "CITY":"WAXAHACHIE",
+    "STATE":"TX",
+    "ZIP":75167,
+    "COUNTY":"ELLIS",
+    "PHONE":7867097912,
+    "BEDS":20,
+    "API ADDRESS":"530 Hight Rd, Waxahachie, TX 75167"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.738653,26.134102 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4813",
+    "LEGAL NAME":"MESQUITE TREATMENT CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"17697 ABD RD",
+    "CITY":"HARLINGEN",
+    "STATE":"TX",
+    "ZIP":78552,
+    "COUNTY":"CAMERON",
+    "PHONE":9564282100,
+    "BEDS":20,
+    "API ADDRESS":"17697 Abd Rd, Harlingen, TX 78552"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.161251,30.015704 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4424",
+    "LEGAL NAME":"PB TEXAS BEHAVIORAL CARE LLC",
+    "DBA NAME":"THE RIGHT STEP - PB BEHAVIORAL HEALTH",
+    "ADDRESS":"500 FISCHER STORE ROAD",
+    "CITY":"WIMBERLEY",
+    "STATE":"TX",
+    "ZIP":78676,
+    "COUNTY":"HAYS",
+    "PHONE":5128476179,
+    "BEDS":20,
+    "API ADDRESS":"500 Fischer Store Rd, Wimberley, TX 78676"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.599978,29.448069 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3268",
+    "LEGAL NAME":"RUELAS MANAGEMENT SERVICES LLC",
+    "DBA NAME":"SAN ANTONIO RECOVERY CENTER",
+    "ADDRESS":"5806 CULEBRA",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78228,
+    "COUNTY":"BEXAR",
+    "PHONE":2104323700,
+    "BEDS":20,
+    "API ADDRESS":"5806 Culebra Rd, San Antonio, TX 78228"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.739329,32.45106 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"162B",
+    "LEGAL NAME":"SERENITY FOUNDATION OF TEXAS",
+    "DBA NAME":"",
+    "ADDRESS":"1502 NORTH 2ND",
+    "CITY":"ABILENE",
+    "STATE":"TX",
+    "ZIP":79601,
+    "COUNTY":"TAYLOR",
+    "PHONE":3256736489,
+    "BEDS":20,
+    "API ADDRESS":"1502 N 2nd St, Abilene, TX 79601"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.066953,29.462307 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"728E",
+    "LEGAL NAME":"BAY AREA RECOVERY CENTER LTD",
+    "DBA NAME":"",
+    "ADDRESS":"3111 YUPON",
+    "CITY":"DICKINSON",
+    "STATE":"TX",
+    "ZIP":77539,
+    "COUNTY":"GALVESTON",
+    "PHONE":2813373322,
+    "BEDS":22,
+    "API ADDRESS":"3111 Yupon St, Dickinson, TX 77539"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.710292,34.255098 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3436",
+    "LEGAL NAME":"PLAINVIEW SERENITY CENTER INC",
+    "DBA NAME":"RECOVERY SOLUTIONS",
+    "ADDRESS":"454 NORTH INTERSTATE 27",
+    "CITY":"PLAINVIEW",
+    "STATE":"TX",
+    "ZIP":79072,
+    "COUNTY":"HALE",
+    "PHONE":8062939722,
+    "BEDS":22,
+    "API ADDRESS":"454 I-27, Plainview, TX 79072"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.722225,32.435356 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4155",
+    "LEGAL NAME":"CASA COLINA ADDICTION TREATMENT CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1041 RUTHERFORD ROAD",
+    "CITY":"WAXAHACHIE",
+    "STATE":"TX",
+    "ZIP":75165,
+    "COUNTY":"ELLIS",
+    "PHONE":9724492000,
+    "BEDS":23,
+    "API ADDRESS":"1041 Rutherford Rd, Waxahachie, TX 75165"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.709818,34.255826 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"486A",
+    "LEGAL NAME":"PLAINVIEW SERENITY CENTER INC",
+    "DBA NAME":"HOUSE OF HOPE",
+    "ADDRESS":"450 NORTH INTERSTATE 27",
+    "CITY":"PLAINVIEW",
+    "STATE":"TX",
+    "ZIP":79072,
+    "COUNTY":"HALE",
+    "PHONE":8062939722,
+    "BEDS":23,
+    "API ADDRESS":"450 I-27, Plainview, TX 79072"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.727464,29.449997 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3749",
+    "LEGAL NAME":"SOBA TEXAS LLC",
+    "DBA NAME":"BEXAR COUNTY RECOVERY CENTER",
+    "ADDRESS":"1401 DEZARAE STREET, LOT #3",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78253,
+    "COUNTY":"BEXAR",
+    "PHONE":2105298410,
+    "BEDS":23,
+    "API ADDRESS":"1401 Dezarae St, Apt 3, San Antonio, TX 78253"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.061994,29.458708 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"728C",
+    "LEGAL NAME":"BAY AREA RECOVERY CENTER LTD",
+    "DBA NAME":"",
+    "ADDRESS":"1807 FM 517",
+    "CITY":"DICKINSON",
+    "STATE":"TX",
+    "ZIP":77539,
+    "COUNTY":"GALVESTON",
+    "PHONE":2813376437,
+    "BEDS":24,
+    "API ADDRESS":"1807 Farm To Market Rd 517, Dickinson, TX 77539"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.409536,30.59314 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4790",
+    "LEGAL NAME":"CRESTONE WELLNESS LLC",
+    "DBA NAME":"",
+    "ADDRESS":"301 HIGHLAND DRIVE",
+    "CITY":"TAYLOR",
+    "STATE":"TX",
+    "ZIP":76574,
+    "COUNTY":"WILLIAMSON",
+    "PHONE":2144602658,
+    "BEDS":24,
+    "API ADDRESS":"301 Highland Dr, Taylor, TX 76574"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.375746,30.362316 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4889",
+    "LEGAL NAME":"FOUNDATION STONE LLC",
+    "DBA NAME":"AMEND",
+    "ADDRESS":"701 NORTH HIGHWAY 95",
+    "CITY":"ELGIN",
+    "STATE":"TX",
+    "ZIP":78621,
+    "COUNTY":"BASTROP",
+    "PHONE":7065022920,
+    "BEDS":24,
+    "API ADDRESS":"701 N Sh 95, Elgin, TX 78621"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.027773,29.525857 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3848",
+    "LEGAL NAME":"KEMAH PALMS RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1013 DELESANDRI LANE",
+    "CITY":"KEMAH",
+    "STATE":"TX",
+    "ZIP":77565,
+    "COUNTY":"GALVESTON",
+    "PHONE":7135681210,
+    "BEDS":24,
+    "API ADDRESS":"1013 Delesandri Ln, Kemah, TX 77565"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.15027,30.127475 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"124H",
+    "LEGAL NAME":"LAND MANOR",
+    "DBA NAME":"",
+    "ADDRESS":"5670 CONCORD",
+    "CITY":"BEAUMONT",
+    "STATE":"TX",
+    "ZIP":77708,
+    "COUNTY":"JEFFERSON",
+    "PHONE":4098965911,
+    "BEDS":24,
+    "API ADDRESS":"5670 Concord Rd, Beaumont, TX 77708"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.777391,33.115246 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4793",
+    "LEGAL NAME":"ORIGINS SPI LLC",
+    "DBA NAME":"RESTORED PATH DETOX",
+    "ADDRESS":"11777 LEBANON ROAD",
+    "CITY":"FRISCO",
+    "STATE":"TX",
+    "ZIP":75035,
+    "COUNTY":"COLLIN",
+    "PHONE":2148174940,
+    "BEDS":24,
+    "API ADDRESS":"11777 Lebanon Rd, Frisco, TX 75035"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.110635,30.467367 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4619",
+    "LEGAL NAME":"POSITIVE RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"840 COUNTY ROAD 420",
+    "CITY":"SPICEWOOD",
+    "STATE":"TX",
+    "ZIP":78669,
+    "COUNTY":"BURNET",
+    "PHONE":8774762743,
+    "BEDS":24,
+    "API ADDRESS":"840 County Rd 420, Spicewood, TX 78669"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.918413,29.884047 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4614",
+    "LEGAL NAME":"SUNRISE REHAB AND RECOVERY - SAN MARCOS LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1106 NORTH INTERSTATE 35",
+    "CITY":"SAN MARCOS",
+    "STATE":"TX",
+    "ZIP":78666,
+    "COUNTY":"HAYS",
+    "PHONE":5126677677,
+    "BEDS":24,
+    "API ADDRESS":"1106 N I-35, San Marcos, TX 78666"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.529131,29.674214 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4830",
+    "LEGAL NAME":"VIRTUE RECOVERY HOUSTON LLC",
+    "DBA NAME":"",
+    "ADDRESS":"9714 SOUTH GESSNER ROAD",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77071,
+    "COUNTY":"HARRIS",
+    "PHONE":9739360993,
+    "BEDS":24,
+    "API ADDRESS":"9714 S Gessner Rd, Houston, TX 77071"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.355273,29.520726 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4835",
+    "LEGAL NAME":"ALAMO BEHAVIORAL HEALTH LLC",
+    "DBA NAME":"",
+    "ADDRESS":"8915 NEW WORLD DRIVE",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78239,
+    "COUNTY":"BEXAR",
+    "PHONE":5612470248,
+    "BEDS":26,
+    "API ADDRESS":"8915 New World Dr, San Antonio, TX 78239"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.052335,29.460083 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"728B",
+    "LEGAL NAME":"BAY AREA RECOVERY CENTER LTD",
+    "DBA NAME":"",
+    "ADDRESS":"2523 44TH STREET",
+    "CITY":"DICKINSON",
+    "STATE":"TX",
+    "ZIP":77539,
+    "COUNTY":"GALVESTON",
+    "PHONE":2813371343,
+    "BEDS":26,
+    "API ADDRESS":"2523 44th St, Dickinson, TX 77539"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.771517,30.043628 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4637",
+    "LEGAL NAME":"MALLARD LAKE RANCH DETOX CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"18407 HOPFE ROAD",
+    "CITY":"HOCKLEY",
+    "STATE":"TX",
+    "ZIP":77447,
+    "COUNTY":"HARRIS",
+    "PHONE":8777074608,
+    "BEDS":26,
+    "API ADDRESS":"18407 Hopfe Rd, Hockley, TX 77447"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.714088,29.337494 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4521",
+    "LEGAL NAME":"RUELAS MANAGEMENT SERVICES LLC",
+    "DBA NAME":"SAN ANTONIO RECOVERY CENTER",
+    "ADDRESS":"8975 CAGNON ROAD",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78252,
+    "COUNTY":"BEXAR",
+    "PHONE":2104323700,
+    "BEDS":26,
+    "API ADDRESS":"8975 Cagnon Rd, San Antonio, TX 78252"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.462032,27.364245 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"788S",
+    "LEGAL NAME":"SERVING CHILDREN AND ADULTS IN NEED INC",
+    "DBA NAME":"",
+    "ADDRESS":"1002 PASEO DE TIBER REAR B",
+    "CITY":"RIO BRAVO",
+    "STATE":"TX",
+    "ZIP":78046,
+    "COUNTY":"WEBB",
+    "PHONE":9567289131,
+    "BEDS":26,
+    "API ADDRESS":"1002 Paseo De Tiber Rd, Rio Bravo, TX 78046"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.605772,32.827337 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4335",
+    "LEGAL NAME":"STONEGATE CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"551 STONY RIDGE",
+    "CITY":"AZLE",
+    "STATE":"TX",
+    "ZIP":76020,
+    "COUNTY":"PARKER",
+    "PHONE":8174488893,
+    "BEDS":26,
+    "API ADDRESS":"551 Stoney Rdg, Azle, TX 76020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.385882,29.74704 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"2341A",
+    "LEGAL NAME":"THE WOMENS HOME",
+    "DBA NAME":"",
+    "ADDRESS":"310 PACIFIC AND 811 WESTHEIMER",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77006,
+    "COUNTY":"HARRIS",
+    "PHONE":7135213150,
+    "BEDS":26,
+    "API ADDRESS":"310 Pacific St, Houston, TX 77006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.120337,32.117436 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3829",
+    "LEGAL NAME":"ARDENT BEHAVIORAL HEALTHCARE LLC",
+    "DBA NAME":"",
+    "ADDRESS":"15751 SOUTH US HIGHWAY 281",
+    "CITY":"HICO",
+    "STATE":"TX",
+    "ZIP":76457,
+    "COUNTY":"ERATH",
+    "PHONE":2549182009,
+    "BEDS":27,
+    "API ADDRESS":"15751 S US Highway 281, Hico, TX 76457"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.504939,29.431964 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3061",
+    "LEGAL NAME":"BEXAR COUNTY BOARD OF TRUSTEES FOR MHMR SERVICES",
+    "DBA NAME":"",
+    "ADDRESS":"601 NORTH FRIO, BUILDING 1",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78207,
+    "COUNTY":"BEXAR",
+    "PHONE":2102613060,
+    "BEDS":28,
+    "API ADDRESS":"601 N Frio St, Bldg 1, San Antonio, TX 78207"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.924281,33.467526 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4066",
+    "LEGAL NAME":"HEALING SPRINGS LLC",
+    "DBA NAME":"",
+    "ADDRESS":"100 SOUTH TEXAS STREET",
+    "CITY":"TIOGA",
+    "STATE":"TX",
+    "ZIP":76271,
+    "COUNTY":"GRAYSON",
+    "PHONE":2144985493,
+    "BEDS":28,
+    "API ADDRESS":"100 S Texas St, Tioga, TX 76271"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.341094,31.694753 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3155",
+    "LEGAL NAME":"HOMEWARD BOUND INC",
+    "DBA NAME":"",
+    "ADDRESS":"8716 INDEPENDENCE STREET",
+    "CITY":"EL PASO",
+    "STATE":"TX",
+    "ZIP":79907,
+    "COUNTY":"EL PASO",
+    "PHONE":9157759111,
+    "BEDS":28,
+    "API ADDRESS":"8716 Independence Dr, El Paso, TX 79907"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.585187,30.247871 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4048",
+    "LEGAL NAME":"RECOVERY UNPLUGGED AUSTIN LLC",
+    "DBA NAME":"",
+    "ADDRESS":"14109 FM 969",
+    "CITY":"AUSTIN",
+    "STATE":"TX",
+    "ZIP":78724,
+    "COUNTY":"TRAVIS",
+    "PHONE":5124891990,
+    "BEDS":28,
+    "API ADDRESS":"14109 Farm To Market Rd 969, Austin, TX 78724"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.90143,30.231977 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3902",
+    "LEGAL NAME":"AWAKENINGS HILL COUNTRY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"184 FULLBROOK LANE",
+    "CITY":"FREDERICKSBURG",
+    "STATE":"TX",
+    "ZIP":78624,
+    "COUNTY":"GILLESPIE",
+    "PHONE":8309972675,
+    "BEDS":29,
+    "API ADDRESS":"184 Fullbrook Ln, Fredericksburg, TX 78624"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.677063,30.28249 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4863",
+    "LEGAL NAME":"ANEWENTRY INC",
+    "DBA NAME":"",
+    "ADDRESS":"1808 WEBBERVILLE RD.",
+    "CITY":"AUSTIN",
+    "STATE":"TX",
+    "ZIP":78721,
+    "COUNTY":"TRAVIS",
+    "PHONE":5124641250,
+    "BEDS":30,
+    "API ADDRESS":"1808 Webberville Rd, Austin, TX 78721"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.376483,30.671969 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"649T",
+    "LEGAL NAME":"BRAZOS VALLEY COUNCIL ON ALCOHOL AND SUBSTANCE ABUSE",
+    "DBA NAME":"",
+    "ADDRESS":"300 SOUTH SIMS",
+    "CITY":"BRYAN",
+    "STATE":"TX",
+    "ZIP":77803,
+    "COUNTY":"BRAZOS",
+    "PHONE":9798235300,
+    "BEDS":30,
+    "API ADDRESS":"300 S Sims Ave, Bryan, TX 77803"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.364747,30.33339 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"2385A",
+    "LEGAL NAME":"BTRL LTD",
+    "DBA NAME":"RENEWAL LODGE",
+    "ADDRESS":"122 FISHER STREET",
+    "CITY":"ELGIN",
+    "STATE":"TX",
+    "ZIP":78621,
+    "COUNTY":"BASTROP",
+    "PHONE":5122855900,
+    "BEDS":30,
+    "API ADDRESS":"122 Fisher St, Elgin, TX 78621"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.358583,31.856782 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"339CX",
+    "LEGAL NAME":"CLOVER HOUSE INC",
+    "DBA NAME":"",
+    "ADDRESS":"700 N. DIXIE",
+    "CITY":"ODESSA",
+    "STATE":"TX",
+    "ZIP":79761,
+    "COUNTY":"ECTOR",
+    "PHONE":4325804798,
+    "BEDS":30,
+    "API ADDRESS":"700 N Dixie Blvd, Odessa, TX 79761"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.614042,30.046156 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4490",
+    "LEGAL NAME":"ETHOS-PRAIRIE LLC",
+    "DBA NAME":"",
+    "ADDRESS":"5808 WAGNER ROAD",
+    "CITY":"ROUND TOP",
+    "STATE":"TX",
+    "ZIP":78954,
+    "COUNTY":"AUSTIN",
+    "PHONE":9798364975,
+    "BEDS":30,
+    "API ADDRESS":"5808 Wagner Rd, Round Top, TX 78954"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.392511,29.659674 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"681A",
+    "LEGAL NAME":"STAR OF HOPE MISSION",
+    "DBA NAME":"",
+    "ADDRESS":"2575 REED ROAD",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77051,
+    "COUNTY":"HARRIS",
+    "PHONE":7134405350,
+    "BEDS":30,
+    "API ADDRESS":"2575 Reed Rd, Houston, TX 77051"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.489665,29.456636 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"438A",
+    "LEGAL NAME":"ALPHA HOME, INC.",
+    "DBA NAME":"",
+    "ADDRESS":"300 E. MULBERRY 402 CARLTON CT. & 419 E. MAGNOLIA",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78212,
+    "COUNTY":"BEXAR",
+    "PHONE":2107353822,
+    "BEDS":31,
+    "API ADDRESS":"300 E Mulberry Ave 419, San Antonio, TX 78212"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.448752,30.798553 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4136",
+    "LEGAL NAME":"CYPRESS LAKE LODGE LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1129 HIGHWAY 287 NORTH",
+    "CITY":"WOODVILLE",
+    "STATE":"TX",
+    "ZIP":75979,
+    "COUNTY":"TYLER",
+    "PHONE":4093312204,
+    "BEDS":31,
+    "API ADDRESS":"1129 US Highway 287, Woodville, TX 75979"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.057746,32.571552 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"1691C",
+    "LEGAL NAME":"AZLEWAY INC",
+    "DBA NAME":"",
+    "ADDRESS":"1085 P.R. 3481",
+    "CITY":"BIG SANDY",
+    "STATE":"TX",
+    "ZIP":75755,
+    "COUNTY":"UPSHUR",
+    "PHONE":9036369800,
+    "BEDS":32,
+    "API ADDRESS":"Big Sandy, TX 75755"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.320618,32.363917 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3898",
+    "LEGAL NAME":"CENIKOR FOUNDATION",
+    "DBA NAME":"",
+    "ADDRESS":"1827 WEST GENTRY PARKWAY",
+    "CITY":"TYLER",
+    "STATE":"TX",
+    "ZIP":75702,
+    "COUNTY":"SMITH",
+    "PHONE":9066307461,
+    "BEDS":32,
+    "API ADDRESS":"1827 W Gentry Pkwy, Tyler, TX 75702"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.802909,32.797014 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4819",
+    "LEGAL NAME":"CENIKOR FOUNDATION",
+    "DBA NAME":"",
+    "ADDRESS":"2707 ROUTH STREET",
+    "CITY":"DALLAS",
+    "STATE":"TX",
+    "ZIP":75201,
+    "COUNTY":"DALLAS",
+    "PHONE":2148712483,
+    "BEDS":32,
+    "API ADDRESS":"2707 Routh St, Dallas, TX 75201"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.352031,32.342219 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4779",
+    "LEGAL NAME":"CLEARFORK ACADEMY LP",
+    "DBA NAME":"",
+    "ADDRESS":"1632 E FM 4",
+    "CITY":"CLEBURNE",
+    "STATE":"TX",
+    "ZIP":76031,
+    "COUNTY":"JOHNSON",
+    "PHONE":8172592597,
+    "BEDS":32,
+    "API ADDRESS":"1632 E FM 4, Cleburne, TX 76031"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.511303,30.39376 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4304",
+    "LEGAL NAME":"NEW HOPE RANCH LLC",
+    "DBA NAME":"",
+    "ADDRESS":"11908 SPARKS ROAD",
+    "CITY":"MANOR",
+    "STATE":"TX",
+    "ZIP":78653,
+    "COUNTY":"TRAVIS",
+    "PHONE":6155683234,
+    "BEDS":32,
+    "API ADDRESS":"11908 Sparks Rd, Manor, TX 78653"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.160226,30.016419 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4423",
+    "LEGAL NAME":"PB TEXAS BEHAVIORAL CARE LLC",
+    "DBA NAME":"THE RIGHT STEP - PB BEHAVIORAL HEALTH",
+    "ADDRESS":"380 & 440 FISCHER STORE ROAD",
+    "CITY":"WIMBERLEY",
+    "STATE":"TX",
+    "ZIP":78676,
+    "COUNTY":"HAYS",
+    "PHONE":5128476179,
+    "BEDS":32,
+    "API ADDRESS":"380 Fischer Store Rd 440, Wimberley, TX 78676"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.901639,30.303402 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"162X",
+    "LEGAL NAME":"SERENITY FOUNDATION OF TEXAS",
+    "DBA NAME":"",
+    "ADDRESS":"312 BALCONES DRIVE",
+    "CITY":"FREDERICKSBURG",
+    "STATE":"TX",
+    "ZIP":78624,
+    "COUNTY":"GILLESPIE",
+    "PHONE":8309979340,
+    "BEDS":32,
+    "API ADDRESS":"312 Balcones Dr, Fredericksburg, TX 78624"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.641912,29.614855 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4343",
+    "LEGAL NAME":"SKYWARD TREATMENT SOLUTIONS LLC",
+    "DBA NAME":"",
+    "ADDRESS":"11352 SUGAR PARK LANE",
+    "CITY":"SUGAR LAND",
+    "STATE":"TX",
+    "ZIP":77478,
+    "COUNTY":"FORT BEND",
+    "PHONE":8338397591,
+    "BEDS":32,
+    "API ADDRESS":"11352 Sugar Park Ln, Sugar Land, TX 77478"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.027986,29.927003 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4433",
+    "LEGAL NAME":"STARLITE RECOVERY CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"230 MESA VERDE DRIVE EAST BUILDING D",
+    "CITY":"CENTER POINT",
+    "STATE":"TX",
+    "ZIP":78010,
+    "COUNTY":"KERR",
+    "PHONE":8002920149,
+    "BEDS":32,
+    "API ADDRESS":"230 Mesa Verde Dr E, Bldg D, Center Point, TX 78010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.467933,29.615923 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3438",
+    "LEGAL NAME":"CENIKOR FOUNDATION",
+    "DBA NAME":"ODYSSEY HOUSE TEXAS",
+    "ADDRESS":"5629 GRAPEVINE",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77085,
+    "COUNTY":"HARRIS",
+    "PHONE":7137260922,
+    "BEDS":34,
+    "API ADDRESS":"5629 Grapevine St, Houston, TX 77085"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.525187,33.888121 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3009",
+    "LEGAL NAME":"RR RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"2501 TAYLOR STREET",
+    "CITY":"WICHITA FALLS",
+    "STATE":"TX",
+    "ZIP":76309,
+    "COUNTY":"WICHITA",
+    "PHONE":9407613034,
+    "BEDS":34,
+    "API ADDRESS":"2501 Taylor St, Wichita Falls, TX 76309"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.410292,29.831676 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3724",
+    "LEGAL NAME":"OMSRIJAS LLC",
+    "DBA NAME":"RIPPLE RECOVERY RANCH",
+    "ADDRESS":"2098 TEXAS OAKS",
+    "CITY":"SPRING BRANCH",
+    "STATE":"TX",
+    "ZIP":78070,
+    "COUNTY":"COMAL",
+    "PHONE":2104801219,
+    "BEDS":35,
+    "API ADDRESS":"2098 Texas Oaks, Spring Branch, TX 78070"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.56286,33.432435 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3129",
+    "LEGAL NAME":"ENTERHEALTH PROPERTIES LLC",
+    "DBA NAME":"ENTERHEALTH RANCH",
+    "ADDRESS":"524 LINCOLN PARK",
+    "CITY":"VAN ALYSTNE",
+    "STATE":"TX",
+    "ZIP":75495,
+    "COUNTY":"GRAYSON",
+    "PHONE":2142611130,
+    "BEDS":38,
+    "API ADDRESS":"524 N Lincoln Park Rd, Van Alstyne, TX 75495"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.429188,29.878531 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3182",
+    "LEGAL NAME":"ABUNDANCE LIVING INC",
+    "DBA NAME":"",
+    "ADDRESS":"8512 1/2 WHEATLEY STREET",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77088,
+    "COUNTY":"HARRIS",
+    "PHONE":8322822189,
+    "BEDS":40,
+    "API ADDRESS":"8512 1/2 Wheatley St, Houston, TX 77088"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.35499,32.518463 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4005",
+    "LEGAL NAME":"ADDICTION CAMPUSES OF TEXAS LLC",
+    "DBA NAME":"TEXAS RECOVERY CENTER",
+    "ADDRESS":"6944 SHADY LANE",
+    "CITY":"SCURRY",
+    "STATE":"TX",
+    "ZIP":75158,
+    "COUNTY":"KAUFMAN",
+    "PHONE":9724522210,
+    "BEDS":40,
+    "API ADDRESS":"6944 Shady Ln, Scurry, TX 75158"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.86808,33.612199 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4540",
+    "LEGAL NAME":"CHILDREN&apos;S HOPE RESIDENTIAL SERVICES INC",
+    "DBA NAME":"GRACE MANOR",
+    "ADDRESS":"2402 CANYON LAKE DRIVE",
+    "CITY":"LUBBOCK",
+    "STATE":"TX",
+    "ZIP":79415,
+    "COUNTY":"LUBBOCK",
+    "PHONE":8068979735,
+    "BEDS":40,
+    "API ADDRESS":"2402 Canyon Lake Rd, Lubbock, TX 79415"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.439986,29.495362 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4332",
+    "LEGAL NAME":"NEW CHOICES TREATMENT CENTERS LLC",
+    "DBA NAME":"",
+    "ADDRESS":"3050 EISENHAUER ROAD STE 501",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78209,
+    "COUNTY":"BEXAR",
+    "PHONE":7268887003,
+    "BEDS":40,
+    "API ADDRESS":"3050 Eisenhauer Rd, Apt 501, San Antonio, TX 78209"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.164779,26.088558 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3319",
+    "LEGAL NAME":"ORIGINS RECOVERY OF TEXAS LLC",
+    "DBA NAME":"ORIGINS RECOVERY CENTERS",
+    "ADDRESS":"4604 & 4610 PADRE BOULEVARD",
+    "CITY":"SOUTH PADRE ISLAND",
+    "STATE":"TX",
+    "ZIP":78597,
+    "COUNTY":"CAMERON",
+    "PHONE":9567729200,
+    "BEDS":40,
+    "API ADDRESS":"Padre Blvd 4610, South Padre Island, TX 78597"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.143473,30.054748 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"149F",
+    "LEGAL NAME":"RECOVERY COUNCIL OF SOUTHEAST TEXAS",
+    "DBA NAME":"",
+    "ADDRESS":"4673 WASHINGTON BOULEVARD",
+    "CITY":"BEAUMONT",
+    "STATE":"TX",
+    "ZIP":77707,
+    "COUNTY":"JEFFERSON",
+    "PHONE":4098409350,
+    "BEDS":40,
+    "API ADDRESS":"4673 Washington Blvd, Beaumont, TX 77707"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.082972,32.035425 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3144",
+    "LEGAL NAME":"THE SPRINGBOARD CENTER",
+    "DBA NAME":"",
+    "ADDRESS":"200 CORPORATE DRIVE",
+    "CITY":"MIDLAND",
+    "STATE":"TX",
+    "ZIP":79705,
+    "COUNTY":"MIDLAND",
+    "PHONE":4326200255,
+    "BEDS":40,
+    "API ADDRESS":"200 Corporate Dr, Midland, TX 79705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.203285,32.601393 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"1963A",
+    "LEGAL NAME":"BURNING TREE RECOVERY RANCH LTD",
+    "DBA NAME":"",
+    "ADDRESS":"2837 CR 101",
+    "CITY":"KAUFMAN",
+    "STATE":"TX",
+    "ZIP":75142,
+    "COUNTY":"KAUFMAN",
+    "PHONE":9729627374,
+    "BEDS":42,
+    "API ADDRESS":"2837 County Rd 101, Kaufman, TX 75142"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.385145,31.825588 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"338E",
+    "LEGAL NAME":"PERMIAN BASIN COMMUNITY CENTERS FOR MHMR 13",
+    "DBA NAME":"",
+    "ADDRESS":"2000 W. MAURICE ROAD",
+    "CITY":"ODESSA",
+    "STATE":"TX",
+    "ZIP":79763,
+    "COUNTY":"ECTOR",
+    "PHONE":4325802654,
+    "BEDS":42,
+    "API ADDRESS":"2000 Maurice Rd, Odessa, TX 79763"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.818442,32.804301 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"865P",
+    "LEGAL NAME":"PHOENIX HOUSES OF TEXAS INC",
+    "DBA NAME":"",
+    "ADDRESS":"2345 REAGAN STREET",
+    "CITY":"DALLAS",
+    "STATE":"TX",
+    "ZIP":75219,
+    "COUNTY":"DALLAS",
+    "PHONE":2149201628,
+    "BEDS":42,
+    "API ADDRESS":"2345 Reagan St, Dallas, TX 75219"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.120503,32.819861 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4838",
+    "LEGAL NAME":"POSITIVE RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"2219 W. EULESS BLVD.",
+    "CITY":"EULESS",
+    "STATE":"TX",
+    "ZIP":76040,
+    "COUNTY":"TARRANT",
+    "PHONE":7139044688,
+    "BEDS":42,
+    "API ADDRESS":"2219 W Euless Blvd, Euless, TX 76040"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.210338,32.605094 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4349",
+    "LEGAL NAME":"RIVERWALK RANCH LLC",
+    "DBA NAME":"",
+    "ADDRESS":"6960 DICK PRICE ROAD",
+    "CITY":"MANSFIELD",
+    "STATE":"TX",
+    "ZIP":76063,
+    "COUNTY":"TARRANT",
+    "PHONE":8177209520,
+    "BEDS":44,
+    "API ADDRESS":"6960 Dick Price Rd, Mansfield, TX 76063"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.60604,32.830814 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3327",
+    "LEGAL NAME":"STONEGATE CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"7510 FM 1886",
+    "CITY":"AZLE",
+    "STATE":"TX",
+    "ZIP":76020,
+    "COUNTY":"PARKER",
+    "PHONE":8174488893,
+    "BEDS":44,
+    "API ADDRESS":"7510 Farm To Market Rd 1886, Azle, TX 76020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.802312,30.532181 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4752",
+    "LEGAL NAME":"INFINITE RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1201 ARROW POINT DRIVE",
+    "CITY":"CEDAR PARK",
+    "STATE":"TX",
+    "ZIP":78613,
+    "COUNTY":"WILLIAMSON",
+    "PHONE":5124220870,
+    "BEDS":45,
+    "API ADDRESS":"1201 Arrow Point Dr, Cedar Park, TX 78613"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.292582,30.580399 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4641",
+    "LEGAL NAME":"PB BEHAVIORAL BRAZOS VALLEY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"3550 NORMAND DRIVE",
+    "CITY":"COLLEGE STATION",
+    "STATE":"TX",
+    "ZIP":77845,
+    "COUNTY":"BRAZOS",
+    "PHONE":9792185916,
+    "BEDS":46,
+    "API ADDRESS":"3550 Normand Dr, College Station, TX 77845"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.694292,30.008085 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4667",
+    "LEGAL NAME":"PLUM CREEK RECOVERY RANCH",
+    "DBA NAME":"",
+    "ADDRESS":"519 BRIAR PATCH ROAD",
+    "CITY":"LOCKHART",
+    "STATE":"TX",
+    "ZIP":78644,
+    "COUNTY":"CALDWELL",
+    "PHONE":5123983000,
+    "BEDS":46,
+    "API ADDRESS":"519 Briarpatch Rd, Lockhart, TX 78644"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.094673,29.953749 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4600",
+    "LEGAL NAME":"RESURGENCE TX LLC",
+    "DBA NAME":"",
+    "ADDRESS":"10703 RANCH ROAD 12",
+    "CITY":"WIMBERLEY",
+    "STATE":"TX",
+    "ZIP":78676,
+    "COUNTY":"HAYS",
+    "PHONE":5126613366,
+    "BEDS":46,
+    "API ADDRESS":"10703 Ranch Rd 12, Wimberley, TX 78676"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.427185,31.078659 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3118",
+    "LEGAL NAME":"CHRISTIAN FARMS - TREEHOUSE, INC.",
+    "DBA NAME":"",
+    "ADDRESS":"3804 RIVERSIDE TRAIL",
+    "CITY":"TEMPLE",
+    "STATE":"TX",
+    "ZIP":76502,
+    "COUNTY":"BELL",
+    "PHONE":2549339400,
+    "BEDS":48,
+    "API ADDRESS":"3804 Riverside Trl, Temple, TX 76502"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.114922,29.551263 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4091",
+    "LEGAL NAME":"IARC INC",
+    "DBA NAME":"",
+    "ADDRESS":"17250 EL CAMINO REAL",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77058,
+    "COUNTY":"HARRIS",
+    "PHONE":2814882280,
+    "BEDS":48,
+    "API ADDRESS":"17250 El Camino Real, Houston, TX 77058"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.365839,30.360174 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4308",
+    "LEGAL NAME":"MAKANA PATH LLC",
+    "DBA NAME":"",
+    "ADDRESS":"826 LEXINGTON ROAD",
+    "CITY":"ELGIN",
+    "STATE":"TX",
+    "ZIP":78621,
+    "COUNTY":"BASTROP",
+    "PHONE":5122784550,
+    "BEDS":48,
+    "API ADDRESS":"826 Lexington Rd, Elgin, TX 78621"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.755882,30.243878 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"865M",
+    "LEGAL NAME":"PHOENIX HOUSES OF TEXAS INC",
+    "DBA NAME":"",
+    "ADDRESS":"400 WEST LIVE OAK",
+    "CITY":"AUSTIN",
+    "STATE":"TX",
+    "ZIP":78704,
+    "COUNTY":"TRAVIS",
+    "PHONE":5124400613,
+    "BEDS":48,
+    "API ADDRESS":"400 W Live Oak St, Austin, TX 78704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.611503,30.666115 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3339",
+    "LEGAL NAME":"SAN GABRIEL RECOVERY RANCH LLC",
+    "DBA NAME":"THE ARBOR",
+    "ADDRESS":"1443 COUNTY ROAD 103",
+    "CITY":"GEORGETOWN",
+    "STATE":"TX",
+    "ZIP":78626,
+    "COUNTY":"WILLIAMSON",
+    "PHONE":8444132690,
+    "BEDS":48,
+    "API ADDRESS":"1443 County Rd 103, Georgetown, TX 78626"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.211762,29.374897 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3726",
+    "LEGAL NAME":"SUMMIT BHC EGYPT LLC",
+    "DBA NAME":"GREAT OAKS RECOVERY CENTER",
+    "ADDRESS":"11210 FM 102",
+    "CITY":"EGYPT",
+    "STATE":"TX",
+    "ZIP":77436,
+    "COUNTY":"WHARTON",
+    "PHONE":9796771000,
+    "BEDS":48,
+    "API ADDRESS":"Farm To Market Rd 102, Egypt, TX 77436"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.504974,33.120235 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3927",
+    "LEGAL NAME":"SUNSPIRE HEALTH TEXAS LLC",
+    "DBA NAME":"THE MEADOWS TEXAS",
+    "ADDRESS":"3800 COUNTY ROAD 444",
+    "CITY":"PRINCETON",
+    "STATE":"TX",
+    "ZIP":75407,
+    "COUNTY":"COLLIN",
+    "PHONE":2144913550,
+    "BEDS":48,
+    "API ADDRESS":"3800 County Rd 444, Princeton, TX 75407"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.728104,31.065309 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4801",
+    "LEGAL NAME":"VIRTUE RECOVERY CENTER INC",
+    "DBA NAME":"",
+    "ADDRESS":"5200 S. WS YOUNG DRIVE",
+    "CITY":"KILLEEN",
+    "STATE":"TX",
+    "ZIP":76542,
+    "COUNTY":"BELL",
+    "PHONE":8189280026,
+    "BEDS":48,
+    "API ADDRESS":"5200 S Ws Young Dr, Killeen, TX 76542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.361344,31.737431 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"402L",
+    "LEGAL NAME":"ALIVIANE INC",
+    "DBA NAME":"",
+    "ADDRESS":"7722 NORTH LOOP ROAD SUITES 1, 2, 3, & 5",
+    "CITY":"EL PASO",
+    "STATE":"TX",
+    "ZIP":79915,
+    "COUNTY":"EL PASO",
+    "PHONE":9157824014,
+    "BEDS":50,
+    "API ADDRESS":"7722 N Loop Dr 5, El Paso, TX 79915"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3617,29.757684 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4630",
+    "LEGAL NAME":"BANYAN TEXAS LLC",
+    "DBA NAME":"",
+    "ADDRESS":"4168 COUNTY ROAD 444",
+    "CITY":"WAELDER",
+    "STATE":"TX",
+    "ZIP":78959,
+    "COUNTY":"GONZALES",
+    "PHONE":8302833003,
+    "BEDS":50,
+    "API ADDRESS":"4168 County Rd 444, Waelder, TX 78959"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.521616,32.362557 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4380",
+    "LEGAL NAME":"DISCOVERY POINT RETREAT INC",
+    "DBA NAME":"",
+    "ADDRESS":"306 LOG CABIN ROAD",
+    "CITY":"ENNIS",
+    "STATE":"TX",
+    "ZIP":75119,
+    "COUNTY":"ELLIS",
+    "PHONE":8448562197,
+    "BEDS":50,
+    "API ADDRESS":"306 Log Cabin Rd, Ennis, TX 75119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.228876,31.672913 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3171",
+    "LEGAL NAME":"EP HORIZON MANAGEMENT LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1700 NORTH HORIZON BLVD. DORM F",
+    "CITY":"EL PASO",
+    "STATE":"TX",
+    "ZIP":79927,
+    "COUNTY":"EL PASO",
+    "PHONE":9158521505,
+    "BEDS":50,
+    "API ADDRESS":"1700 Horizon Blvd, El Paso, TX 79928"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.099077,30.067588 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"124I",
+    "LEGAL NAME":"LAND MANOR",
+    "DBA NAME":"",
+    "ADDRESS":"1635 AVENUE A",
+    "CITY":"BEAUMONT",
+    "STATE":"TX",
+    "ZIP":77701,
+    "COUNTY":"JEFFERSON",
+    "PHONE":4098327564,
+    "BEDS":50,
+    "API ADDRESS":"1635 Ave A, Beaumont, TX 77705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.122209,27.747547 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"2382A",
+    "LEGAL NAME":"LIBERTY LODGE INC",
+    "DBA NAME":"",
+    "ADDRESS":"160 FM 2507",
+    "CITY":"ALICE",
+    "STATE":"TX",
+    "ZIP":78332,
+    "COUNTY":"JIM WELLS",
+    "PHONE":3616647555,
+    "BEDS":50,
+    "API ADDRESS":"160 Farm To Market Rd 2507, Alice, TX 78332"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.837553,32.813872 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"390A",
+    "LEGAL NAME":"THE SALVATION ARMY",
+    "DBA NAME":"",
+    "ADDRESS":"5302 HARRY HINES BOULEVARD",
+    "CITY":"DALLAS",
+    "STATE":"TX",
+    "ZIP":75235,
+    "COUNTY":"DALLAS",
+    "PHONE":2144247027,
+    "BEDS":50,
+    "API ADDRESS":"5302 Harry Hines Blvd, Dallas, TX 75235"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.183387,30.182912 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4849",
+    "LEGAL NAME":"AUSTIN PINES RANCH LLC",
+    "DBA NAME":"",
+    "ADDRESS":"119 BUCKS RD",
+    "CITY":"PAIGE",
+    "STATE":"TX",
+    "ZIP":78659,
+    "COUNTY":"BASTROP",
+    "PHONE":5125999701,
+    "BEDS":51,
+    "API ADDRESS":"119 Bucks Rd, Paige, TX 78659"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.545435,29.8269 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4704",
+    "LEGAL NAME":"PREVENTION AND RECOVERY CENTER INC",
+    "DBA NAME":"",
+    "ADDRESS":"3033 GESSNER DR",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77080,
+    "COUNTY":"HARRIS",
+    "PHONE":7135783100,
+    "BEDS":52,
+    "API ADDRESS":"3033 Gessner Dr, Houston, TX 77080"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.171998,29.696561 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3121",
+    "LEGAL NAME":"UNLIMITED VISIONS AFTERCARE INC",
+    "DBA NAME":"",
+    "ADDRESS":"907 PRESTON",
+    "CITY":"PASADENA",
+    "STATE":"TX",
+    "ZIP":77503,
+    "COUNTY":"HARRIS",
+    "PHONE":7135348191,
+    "BEDS":52,
+    "API ADDRESS":"907 Preston Ave, Pasadena, TX 77503"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.282693,29.961368 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4171",
+    "LEGAL NAME":"WINDMILL WELLNESS RANCH LLC",
+    "DBA NAME":"",
+    "ADDRESS":"26229 NORTH CRANES MILL ROAD",
+    "CITY":"CANYON LAKE",
+    "STATE":"TX",
+    "ZIP":78133,
+    "COUNTY":"COMAL",
+    "PHONE":8309352800,
+    "BEDS":52,
+    "API ADDRESS":"26229 N Cranes Mill Rd, Canyon Lake, TX 78133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.163988,33.134924 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"1670A",
+    "LEGAL NAME":"DIAMOND MOUNTAIN CENTERS LLC",
+    "DBA NAME":"SANTE CENTER FOR HEALING",
+    "ADDRESS":"914 COUNTRY CLUB RD.",
+    "CITY":"ARGYLE",
+    "STATE":"TX",
+    "ZIP":76226,
+    "COUNTY":"DENTON",
+    "PHONE":9404647222,
+    "BEDS":54,
+    "API ADDRESS":"914 Country Club Rd, Argyle, TX 76226"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.214016,32.226142 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"179A",
+    "LEGAL NAME":"SUMMER SKY INC",
+    "DBA NAME":"",
+    "ADDRESS":"1100 NORTH MCCART STREET 1170 NORTH MCCART STREET SUITE 102",
+    "CITY":"STEPHENVILLE",
+    "STATE":"TX",
+    "ZIP":76401,
+    "COUNTY":"ERATH",
+    "PHONE":2549682907,
+    "BEDS":54,
+    "API ADDRESS":"1100 N McCart Ave, Ste 102, Stephenville, TX 76401"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.912839,35.203425 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4463",
+    "LEGAL NAME":"CENIKOR FOUNDATION",
+    "DBA NAME":"",
+    "ADDRESS":"1001 WALLACE BLVD SOUTH WING, HALLWAYS A-F & DINING AREA WITHIN THE SOUTH WING",
+    "CITY":"AMARILLO",
+    "STATE":"TX",
+    "ZIP":79106,
+    "COUNTY":"POTTER",
+    "PHONE":8063502723,
+    "BEDS":55,
+    "API ADDRESS":"1001 Wallace Blvd, Amarillo, TX 79106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.368969,28.971435 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3995",
+    "LEGAL NAME":"ADAPT FOUNDATION INC",
+    "DBA NAME":"BRAZOS PLACE",
+    "ADDRESS":"1103 NORTH AVENUE H",
+    "CITY":"FREEPORT",
+    "STATE":"TX",
+    "ZIP":77541,
+    "COUNTY":"BRAZORIA",
+    "PHONE":9792333826,
+    "BEDS":56,
+    "API ADDRESS":"1103 N Ave H, Freeport, TX 77541"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.081175,30.060526 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3844",
+    "LEGAL NAME":"NOVA RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"601 OLD OAKS RANCH ROAD",
+    "CITY":"WIMBERLEY",
+    "STATE":"TX",
+    "ZIP":78676,
+    "COUNTY":"HAYS",
+    "PHONE":8128589600,
+    "BEDS":56,
+    "API ADDRESS":"601 Old Oaks Ranch Rd, Wimberley, TX 78676"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.740117,32.451674 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"162AB",
+    "LEGAL NAME":"SERENITY FOUNDATION OF TEXAS",
+    "DBA NAME":"",
+    "ADDRESS":"225 (MULBERRY SLEEPING AREA) 1522 NORTH 2ND STREET (DINING)",
+    "CITY":"ABILENE",
+    "STATE":"TX",
+    "ZIP":79601,
+    "COUNTY":"TAYLOR",
+    "PHONE":3256736489,
+    "BEDS":56,
+    "API ADDRESS":"225 Mulberry St 1522, Abilene, TX 79601"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.842325,33.709882 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"2236A",
+    "LEGAL NAME":"THE RANCH AT DOVE TREE LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1406 QUINLAN STREET",
+    "CITY":"LUBBOCK",
+    "STATE":"TX",
+    "ZIP":79403,
+    "COUNTY":"LUBBOCK",
+    "PHONE":8067466777,
+    "BEDS":56,
+    "API ADDRESS":"Quinlan, Lubbock, TX 79415"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.264697,29.938685 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3650",
+    "LEGAL NAME":"FUNDAMENTALS OF RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1620 FM 535",
+    "CITY":"SMITHVILLE",
+    "STATE":"TX",
+    "ZIP":78957,
+    "COUNTY":"BASTROP",
+    "PHONE":5123603600,
+    "BEDS":57,
+    "API ADDRESS":"1620 Farm To Market Rd 535, Smithville, TX 78957"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.174924,31.560124 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3548",
+    "LEGAL NAME":"CENIKOR FOUNDATION",
+    "DBA NAME":"",
+    "ADDRESS":"3015 HERRING",
+    "CITY":"WACO",
+    "STATE":"TX",
+    "ZIP":76708,
+    "COUNTY":"MCLENNAN",
+    "PHONE":null,
+    "BEDS":59,
+    "API ADDRESS":"3015 Herring Ave, Waco, TX 76708"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.356266,32.519417 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3822",
+    "LEGAL NAME":"ADDICTION CAMPUSES OF TEXAS LLC",
+    "DBA NAME":"TEXAS RECOVERY CENTER",
+    "ADDRESS":"6950 SHADY LANE",
+    "CITY":"SCURRY",
+    "STATE":"TX",
+    "ZIP":75158,
+    "COUNTY":"KAUFMAN",
+    "PHONE":9724522210,
+    "BEDS":60,
+    "API ADDRESS":"6950 Shady Ln, Scurry, TX 75158"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.732578,35.196735 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3364",
+    "LEGAL NAME":"PLAINVIEW SERENITY CENTER INC",
+    "DBA NAME":"AMARILLO TRANSITIONAL TREATMENT CENTER",
+    "ADDRESS":"9300 SOUTHEAST 3RD AVENUE",
+    "CITY":"AMARILLO",
+    "STATE":"TX",
+    "ZIP":79118,
+    "COUNTY":"POTTER",
+    "PHONE":8063989115,
+    "BEDS":60,
+    "API ADDRESS":"9300 SE 3rd Ave, Amarillo, TX 79118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.407171,29.832009 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4200",
+    "LEGAL NAME":"POSITIVE RECOVERY, LLC",
+    "DBA NAME":"",
+    "ADDRESS":"513 THORNTON ROAD & 607 THORNTON ROAD",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77018,
+    "COUNTY":"HARRIS",
+    "PHONE":2814511247,
+    "BEDS":61,
+    "API ADDRESS":"513 Thornton Rd 607, Houston, TX 77018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.859966,32.423429 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"369A",
+    "LEGAL NAME":"SUNDOWN RANCH INC",
+    "DBA NAME":"",
+    "ADDRESS":"3120 VAN ZANDT CR 2318",
+    "CITY":"CANTON",
+    "STATE":"TX",
+    "ZIP":75103,
+    "COUNTY":"VAN ZANDT",
+    "PHONE":9034793933,
+    "BEDS":61,
+    "API ADDRESS":"3120 Vz County Rd 2318, Canton, TX 75103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.486399,29.276522 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4150",
+    "LEGAL NAME":"SERENITY LIGHT RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1820 EAST COUNTY ROAD 36",
+    "CITY":"ANGLETON",
+    "STATE":"TX",
+    "ZIP":77515,
+    "COUNTY":"BRAZORIA",
+    "PHONE":2814316700,
+    "BEDS":62,
+    "API ADDRESS":"1820 County Rd 36, Angleton, TX 77515"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.689095,30.436672 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4090",
+    "LEGAL NAME":"CENIKOR FOUNDATION",
+    "DBA NAME":"",
+    "ADDRESS":"2410 WEST HOWARD LANE",
+    "CITY":"AUSTIN",
+    "STATE":"TX",
+    "ZIP":78728,
+    "COUNTY":"TRAVIS",
+    "PHONE":2546524378,
+    "BEDS":65,
+    "API ADDRESS":"2410 W Howard Ln, Austin, TX 78728"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.417465,32.66487 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4427",
+    "LEGAL NAME":"FORT HEALTHCARE LLC",
+    "DBA NAME":"FORT HEALTHCARE",
+    "ADDRESS":"7140 OAKMONT BLVD.",
+    "CITY":"FORT WORTH",
+    "STATE":"TX",
+    "ZIP":76132,
+    "COUNTY":"TARRANT",
+    "PHONE":8176787428,
+    "BEDS":65,
+    "API ADDRESS":"7140 Oakmont Blvd, Fort Worth, TX 76132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.102625,30.055787 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"124B",
+    "LEGAL NAME":"LAND MANOR",
+    "DBA NAME":"",
+    "ADDRESS":"1785 WASHINGTON BOULEVARD",
+    "CITY":"BEAUMONT",
+    "STATE":"TX",
+    "ZIP":77705,
+    "COUNTY":"JEFFERSON",
+    "PHONE":4098352662,
+    "BEDS":65,
+    "API ADDRESS":"1785 Washington Blvd, Beaumont, TX 77705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.509819,32.86359 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4130",
+    "LEGAL NAME":"CLEARFORK ACADEMY LP",
+    "DBA NAME":"",
+    "ADDRESS":"7820 HANGER CUTOFF ROAD",
+    "CITY":"FORT WORTH",
+    "STATE":"TX",
+    "ZIP":76135,
+    "COUNTY":"TARRANT",
+    "PHONE":8177141311,
+    "BEDS":68,
+    "API ADDRESS":"7820 Hanger Cutoff Rd, Fort Worth, TX 76135"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.09948,32.914452 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"2103A",
+    "LEGAL NAME":"VALLEY HOPE ASSOCIATION",
+    "DBA NAME":"GRAPEVINE VALLEY HOPE",
+    "ADDRESS":"2300 WILLIAM D. TATE AVENUE",
+    "CITY":"GRAPEVINE",
+    "STATE":"TX",
+    "ZIP":76051,
+    "COUNTY":"TARRANT",
+    "PHONE":8174241305,
+    "BEDS":68,
+    "API ADDRESS":"2300 William D Tate Ave, Grapevine, TX 76051"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.867159,32.769645 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"546E",
+    "LEGAL NAME":"DALLAS COUNTY JUVENILE PROBATION DEPARTMENT",
+    "DBA NAME":"",
+    "ADDRESS":"2600 LONE STAR DRIVE",
+    "CITY":"DALLAS",
+    "STATE":"TX",
+    "ZIP":75212,
+    "COUNTY":"DALLAS",
+    "PHONE":2146982200,
+    "BEDS":70,
+    "API ADDRESS":"2600 Lone Star Dr, Dallas, TX 75212"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.312644,32.744325 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"104J",
+    "LEGAL NAME":"MHMR OF TARRANT COUNTY",
+    "DBA NAME":"",
+    "ADDRESS":"1501 EAST EL PASO ST., BLDG. A",
+    "CITY":"FORT WORTH",
+    "STATE":"TX",
+    "ZIP":76102,
+    "COUNTY":"TARRANT",
+    "PHONE":8175694452,
+    "BEDS":70,
+    "API ADDRESS":"1501 E El Paso St, Ste A, Fort Worth, TX 76102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.226536,30.151535 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4104",
+    "LEGAL NAME":"WILLOW SPRINGS RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1128 HIGHWAY 21 EAST",
+    "CITY":"BASTROP",
+    "STATE":"TX",
+    "ZIP":78602,
+    "COUNTY":"BASTROP",
+    "PHONE":9496982249,
+    "BEDS":70,
+    "API ADDRESS":"1128 TX 21, Bastrop, TX 78602"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.027986,29.927003 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4430",
+    "LEGAL NAME":"STARLITE RECOVERY CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"230 MESA VERDE DRIVE EAST BUILDING A",
+    "CITY":"CENTER POINT",
+    "STATE":"TX",
+    "ZIP":78010,
+    "COUNTY":"KERR",
+    "PHONE":8002920148,
+    "BEDS":71,
+    "API ADDRESS":"230 Mesa Verde Dr E, Bldg A, Center Point, TX 78010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.878417,31.436463 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4537",
+    "LEGAL NAME":"ALCOHOL & DRUG ABUSE COUNCIL FOR THE CONCHO VALLEY",
+    "DBA NAME":"",
+    "ADDRESS":"3600 JOURNEY DRIVE",
+    "CITY":"SAN ANGELO",
+    "STATE":"TX",
+    "ZIP":76905,
+    "COUNTY":"TOM GREEN",
+    "PHONE":3252243481,
+    "BEDS":72,
+    "API ADDRESS":"3500 Dry Creek Rd, San Angelo, TX 76901"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.219731,29.784297 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4499",
+    "LEGAL NAME":"PB TEXAS BEHAVIORAL CARE LLC",
+    "DBA NAME":"THE RIGHT STEP-PB BEHAVIORAL HEALTH",
+    "ADDRESS":"12350 WOOD BAYOU DR",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77013,
+    "COUNTY":"HARRIS",
+    "PHONE":7135283709,
+    "BEDS":74,
+    "API ADDRESS":"12350 Wood Bayou Dr, Houston, TX 77013"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.344291,29.860031 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3135",
+    "LEGAL NAME":"SANTA MARIA HOSTEL INC",
+    "DBA NAME":"",
+    "ADDRESS":"2605 PARKER ROAD",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77093,
+    "COUNTY":"HARRIS",
+    "PHONE":7136910900,
+    "BEDS":79,
+    "API ADDRESS":"2605 Parker Rd, Houston, TX 77093"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.357891,32.517594 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4241",
+    "LEGAL NAME":"ADDICTION CAMPUSES OF TEXAS LLC",
+    "DBA NAME":"TEXAS RECOVERY CENTER",
+    "ADDRESS":"7026 SHADY LANE",
+    "CITY":"SCURRY",
+    "STATE":"TX",
+    "ZIP":75158,
+    "COUNTY":"KAUFMAN",
+    "PHONE":9724522210,
+    "BEDS":80,
+    "API ADDRESS":"7026 Shady Ln, Scurry, TX 75158"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.365981,31.848085 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"339AQ",
+    "LEGAL NAME":"CLOVER HOUSE INC",
+    "DBA NAME":"",
+    "ADDRESS":"300 N. JACKSON",
+    "CITY":"ODESSA",
+    "STATE":"TX",
+    "ZIP":79761,
+    "COUNTY":"ECTOR",
+    "PHONE":4325808175,
+    "BEDS":80,
+    "API ADDRESS":"300 N Jackson Ave, Odessa, TX 79761"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.751531,30.083816 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4818",
+    "LEGAL NAME":"INFINITE RECOVERY LLC",
+    "DBA NAME":"",
+    "ADDRESS":"13207 WRIGHT ROAD",
+    "CITY":"BUDA",
+    "STATE":"TX",
+    "ZIP":78610,
+    "COUNTY":"TRAVIS",
+    "PHONE":2103915761,
+    "BEDS":80,
+    "API ADDRESS":"13207 Wright Rd, Buda, TX 78610"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.087595,32.565878 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4202",
+    "LEGAL NAME":"TEXAS HEALTH RECOVERY AND WELLNESS CENTER",
+    "DBA NAME":"",
+    "ADDRESS":"240 NORTH MILLER ROAD",
+    "CITY":"MANSFIELD",
+    "STATE":"TX",
+    "ZIP":76063,
+    "COUNTY":"TARRANT",
+    "PHONE":6828126150,
+    "BEDS":80,
+    "API ADDRESS":"240 N Miller Rd, Mansfield, TX 76063"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.003469,28.831009 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"511I",
+    "LEGAL NAME":"TREATMENT ASSOCIATES OF VICTORIA, INC.",
+    "DBA NAME":"",
+    "ADDRESS":"107 COZZI CIRCLE",
+    "CITY":"VICTORIA",
+    "STATE":"TX",
+    "ZIP":77901,
+    "COUNTY":"VICTORIA",
+    "PHONE":3615787182,
+    "BEDS":80,
+    "API ADDRESS":"107 Cozzi Cir, Victoria, TX 77901"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.31468,31.09124 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"275H",
+    "LEGAL NAME":"CEN-TEX ALCOHOLIC REHABILITATION CENTER INC",
+    "DBA NAME":"",
+    "ADDRESS":"2410 EAST ADAMS",
+    "CITY":"TEMPLE",
+    "STATE":"TX",
+    "ZIP":76501,
+    "COUNTY":"BELL",
+    "PHONE":2547782286,
+    "BEDS":84,
+    "API ADDRESS":"2410 E Adams Ave, Temple, TX 76501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.481376,29.807016 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"672C",
+    "LEGAL NAME":"SANTA MARIA HOSTEL INC",
+    "DBA NAME":"",
+    "ADDRESS":"2005 JACQUELYN STREET BUILDINGS E & F",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77055,
+    "COUNTY":"HARRIS",
+    "PHONE":7137021489,
+    "BEDS":85,
+    "API ADDRESS":"2005 Jacquelyn Dr, Houston, TX 77055"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.439511,29.817616 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"446B",
+    "LEGAL NAME":"TEXAS ALCOHOLISM FOUNDATION INC",
+    "DBA NAME":"",
+    "ADDRESS":"2208 WEST 34TH STREET, BLDG. 2",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77018,
+    "COUNTY":"HARRIS",
+    "PHONE":7139566337,
+    "BEDS":90,
+    "API ADDRESS":"2208 W 34th St, Bldg 2, Houston, TX 77018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.546037,29.82828 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4705",
+    "LEGAL NAME":"PREVENTION AND RECOVERY CENTER INC",
+    "DBA NAME":"",
+    "ADDRESS":"3043 GESSNER DR",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77080,
+    "COUNTY":"HARRIS",
+    "PHONE":7135783100,
+    "BEDS":92,
+    "API ADDRESS":"3043 Gessner Dr, Houston, TX 77080"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.431172,29.315476 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"255A",
+    "LEGAL NAME":"SAN ANTONIO LIFETIME RECOVERY INC",
+    "DBA NAME":"LIFETIME RECOVERY",
+    "ADDRESS":"10290 SOUTHTON ROAD",
+    "CITY":"SAN ANTONIO",
+    "STATE":"TX",
+    "ZIP":78223,
+    "COUNTY":"BEXAR",
+    "PHONE":2106330201,
+    "BEDS":94,
+    "API ADDRESS":"10290 Southton Rd, San Antonio, TX 78223"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.383408,27.975205 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"481A",
+    "LEGAL NAME":"SHORELINE, INC.",
+    "DBA NAME":"",
+    "ADDRESS":"1220 GREGORY STREET",
+    "CITY":"TAFT",
+    "STATE":"TX",
+    "ZIP":78390,
+    "COUNTY":"SAN PATRICIO",
+    "PHONE":3615283356,
+    "BEDS":94,
+    "API ADDRESS":"1220 Gregory St, Taft, TX 78390"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.093293,30.058185 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4843",
+    "LEGAL NAME":"SHALOM HEALTH CARE MANAGEMENT LLC",
+    "DBA NAME":"REVIVE RECOVERY CENTER OF BEAUMONT",
+    "ADDRESS":"950 WASHINGTON BLVD",
+    "CITY":"BEAUMONT",
+    "STATE":"TX",
+    "ZIP":77705,
+    "COUNTY":"JEFFERSON",
+    "PHONE":4092998669,
+    "BEDS":98,
+    "API ADDRESS":"950 Washington Blvd, Beaumont, TX 77705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.301997,32.691819 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"330D",
+    "LEGAL NAME":"VOLUNTEERS OF AMERICA TEXAS INC",
+    "DBA NAME":"",
+    "ADDRESS":"4700 SOUTH RIVERSIDE DRIVE",
+    "CITY":"FORT WORTH",
+    "STATE":"TX",
+    "ZIP":76119,
+    "COUNTY":"TARRANT",
+    "PHONE":8175343432,
+    "BEDS":100,
+    "API ADDRESS":"4700 S Riverside Dr, Fort Worth, TX 76119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.034844,29.749243 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4014",
+    "LEGAL NAME":"WARRIORS HEALING CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"756 PURPLE SAGE ROAD",
+    "CITY":"BANDERA",
+    "STATE":"TX",
+    "ZIP":78003,
+    "COUNTY":"BANDERA",
+    "PHONE":8302251609,
+    "BEDS":100,
+    "API ADDRESS":"756 Purple Sage Rd, Bandera, TX 78003"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.805109,32.680704 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4279",
+    "LEGAL NAME":"HOMEWARD BOUND INC",
+    "DBA NAME":"",
+    "ADDRESS":"5300 UNIVERSITY HILLS BOULEVARD",
+    "CITY":"DALLAS",
+    "STATE":"TX",
+    "ZIP":75241,
+    "COUNTY":"DALLAS",
+    "PHONE":2149413500,
+    "BEDS":106,
+    "API ADDRESS":"5300 University Hills Blvd, Dallas, TX 75241"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.584232,27.850608 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4344",
+    "LEGAL NAME":"CENIKOR FOUNDATION",
+    "DBA NAME":"",
+    "ADDRESS":"5501 IH 37",
+    "CITY":"CORPUS CHRISTI",
+    "STATE":"TX",
+    "ZIP":78469,
+    "COUNTY":"NUECES",
+    "PHONE":3613554752,
+    "BEDS":110,
+    "API ADDRESS":"I-37, Corpus Christi, TX 78410"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.66693,32.81209 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"259A",
+    "LEGAL NAME":"NEXUS RECOVERY CENTER INC",
+    "DBA NAME":"",
+    "ADDRESS":"8733 LA PRADA DRIVE",
+    "CITY":"DALLAS",
+    "STATE":"TX",
+    "ZIP":75228,
+    "COUNTY":"DALLAS",
+    "PHONE":2143210156,
+    "BEDS":120,
+    "API ADDRESS":"8733 La Prada Dr, Dallas, TX 75228"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.342388,30.074736 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"122A",
+    "LEGAL NAME":"ESPERANZA HEALTH SYSTEMS LTD",
+    "DBA NAME":"LA HACIENDA TREATMENT CENTER",
+    "ADDRESS":"145 LA HACIENDA WAY",
+    "CITY":"HUNT",
+    "STATE":"TX",
+    "ZIP":78024,
+    "COUNTY":"KERR",
+    "PHONE":8302384222,
+    "BEDS":130,
+    "API ADDRESS":"145 La Hacienda Way SW, Hunt, TX 78024"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.058951,32.764909 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3511",
+    "LEGAL NAME":"GREENHOUSE TREATMENT CENTER",
+    "DBA NAME":"",
+    "ADDRESS":"1171 107TH STREET",
+    "CITY":"GRAND PRAIRIE",
+    "STATE":"TX",
+    "ZIP":75050,
+    "COUNTY":"TARRANT",
+    "PHONE":8176493700,
+    "BEDS":130,
+    "API ADDRESS":"1171 107th St, Grand Prairie, TX 75050"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.804974,32.177056 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4788",
+    "LEGAL NAME":"MANAGEMENT & TRAINING CORPORATION",
+    "DBA NAME":"MTC HOPE TRANSITIONAL TREATMENT CENTER",
+    "ADDRESS":"900 INDUSTRIAL DRIVE",
+    "CITY":"HENDERSON",
+    "STATE":"TX",
+    "ZIP":75652,
+    "COUNTY":"RUSK",
+    "PHONE":9366611523,
+    "BEDS":140,
+    "API ADDRESS":"900 Industrial Dr, Henderson, TX 75652"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.130114,29.668259 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"316B",
+    "LEGAL NAME":"CENIKOR FOUNDATION",
+    "DBA NAME":"",
+    "ADDRESS":"4525 GLENWOOD AVENUE",
+    "CITY":"DEER PARK",
+    "STATE":"TX",
+    "ZIP":77536,
+    "COUNTY":"HARRIS",
+    "PHONE":2814760088,
+    "BEDS":150,
+    "API ADDRESS":"4525 Glenwood Ave, Deer Park, TX 77536"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.398501,27.805226 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3641",
+    "LEGAL NAME":"AVALON CORPUS CHRISTI TRANSITIONAL CENTER LLC",
+    "DBA NAME":"",
+    "ADDRESS":"1515 NORTH TANCAHUA",
+    "CITY":"CORPUS CHRISTI",
+    "STATE":"TX",
+    "ZIP":78401,
+    "COUNTY":"NUECES",
+    "PHONE":3618831004,
+    "BEDS":158,
+    "API ADDRESS":"1515 N Tancahua St, Corpus Christi, TX 78401"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.641431,30.203888 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"4027",
+    "LEGAL NAME":"ACS CORRECTIONS OF TEXAS LLC",
+    "DBA NAME":"",
+    "ADDRESS":"3154 HWY 71 EAST",
+    "CITY":"DEL VALLE",
+    "STATE":"TX",
+    "ZIP":78617,
+    "COUNTY":"TRAVIS",
+    "PHONE":5123865722,
+    "BEDS":174,
+    "API ADDRESS":"3154 TX 71, Del Valle, TX 78617"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.377096,30.671681 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"649O",
+    "LEGAL NAME":"BRAZOS VALLEY COUNCIL ON ALCOHOL AND SUBSTANCE ABUSE",
+    "DBA NAME":"",
+    "ADDRESS":"405 WEST 28TH STREET",
+    "CITY":"BRYAN",
+    "STATE":"TX",
+    "ZIP":77806,
+    "COUNTY":"BRAZOS",
+    "PHONE":9298235300,
+    "BEDS":182,
+    "API ADDRESS":"405 W 28th St, Bryan, TX 77803"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.449765,32.754593 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"799B",
+    "LEGAL NAME":"ABODE TREATMENT INC",
+    "DBA NAME":"",
+    "ADDRESS":"701 SOUTH CHERRY LANE",
+    "CITY":"WHITE SETTLEMENT",
+    "STATE":"TX",
+    "ZIP":76108,
+    "COUNTY":"TARRANT",
+    "PHONE":8172468677,
+    "BEDS":200,
+    "API ADDRESS":"701 S Cherry Ln, Fort Worth, TX 76108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.33396,29.866045 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"3243",
+    "LEGAL NAME":"CHEYENNE CENTER INC",
+    "DBA NAME":"",
+    "ADDRESS":"10525 EASTEX FREEWAY",
+    "CITY":"HOUSTON",
+    "STATE":"TX",
+    "ZIP":77093,
+    "COUNTY":"HARRIS",
+    "PHONE":7136914898,
+    "BEDS":298,
+    "API ADDRESS":"10525 Eastex Fwy, Houston, TX 77093"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.407835,27.770988 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"488M",
+    "LEGAL NAME":"THE COUNCIL ON ALCOHOL AND DRUG ABUSE - COASTAL BEND",
+    "DBA NAME":"",
+    "ADDRESS":"1633 18TH STREET",
+    "CITY":"CORPUS CHRISTI",
+    "STATE":"TX",
+    "ZIP":78404,
+    "COUNTY":"NUECES",
+    "PHONE":3618877070,
+    "BEDS":null,
+    "API ADDRESS":"1633 18th St, Corpus Christi, TX 78404"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.423169,27.746273 ]
+    },
+    "properties": {
+    "LICENSE NUMBER":"488N",
+    "LEGAL NAME":"THE COUNCIL ON ALCOHOL AND DRUG ABUSE - COASTAL BEND",
+    "DBA NAME":"",
+    "ADDRESS":"2310 GOLLIHAR",
+    "CITY":"CORPUS CHRISTI",
+    "STATE":"TX",
+    "ZIP":78415,
+    "COUNTY":"NUECES",
+    "PHONE":3618549199,
+    "BEDS":null,
+    "API ADDRESS":"2310 Gollihar Rd, Corpus Christi, TX 78415"
+    }
+  }
+]
+}
